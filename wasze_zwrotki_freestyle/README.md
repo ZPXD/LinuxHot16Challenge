@@ -1,4 +1,4 @@
-# Zasady #LinuxHot16Freestyle
+# Zasady #LinuxHot16ChallengeFreestyle
 
 #### Tu wrzucamy wasze pomysły.
 
