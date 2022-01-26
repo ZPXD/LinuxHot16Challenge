@@ -1,0 +1,4 @@
+# Autor: Ty
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+Opisz 16 najważniejszych komend Linuxa Ubuntu i kolejnych 16 w tym pliku.
