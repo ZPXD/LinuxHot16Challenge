@@ -1,7 +1,7 @@
-# LinuxHot16Challange
+# LinuxHot16Challenge
 
 
-#LinuxHot16Challange
+#LinuxHot16Challenge
 
 #### Link do strony www (Tu będą aktualne wyniki):
 [tu będzie link do www]
@@ -12,17 +12,19 @@
 Pokazujemy Linuxa Ubuntu jako przyjazny, fajny, łatwy do nauki system (o niezliczonych możliwościach).
 
 
-#### Jak dołączyć do #LinuxHot16Challange
+#### Jak dołączyć do #LinuxHot16Chellange
 
 1. Forkuj to repozytorium.
 2. Wybierz:
-3. 
-#### A. #LinuxHot16Challange:
 
+#### A. #LinuxHot16Challenge:
+
+Wersja konkursowa - wyniki LinuxHot16Chllenge
 https://github.com/ZPXD/LinuxHot16Challenge/tree/main/wasze_zwrotki
 
-#### B. #LinuxHot16ChallangeFreestyle:
+#### B. #LinuxHot16ChallengeFreestyle:
 
+Wersja freestyle - beda widoczne na specjalnej liscie freestyle i byc moze beda najciekawsze ale z uwagi na dowolny format to ta lista nie będzie uwzględniona w wyliczeniu które komendy są przez nas sumarycznie najczęściej polecane i na jakiej pozycji. W tym celu wypełnij najpierw wersje konkursową a potem zrób freestyle.
 https://github.com/ZPXD/LinuxHot16Challenge/tree/main/wasze_zwrotki_freestyle
 
 3. Edytuj plik i Napisz swoją propozycję 32 poleceń które uważasz za najważniejsze na początku.
@@ -37,8 +39,7 @@ Dla freestylowych zgłoszeń (też będzie osobna lista! :) ): #LinuxHot16Challa
 Ze wszystkich podesłanych plików wyłonimy listę najczęściej zalecanych komend z których wyłonimy 16 najważniejszych - mając na myśli początkujących.
 
 Wyniki ukażą się w lutym na stronie
-www.xd.xd
-
+[Tu będzie link]
 
 
 #### ZPXD: Darmowe roczne zajęcia z programowania. Zapraszajcie:
