@@ -14,12 +14,7 @@ Pokazujemy Linuxa Ubuntu jako przyjazny, fajny, łatwy do nauki system (o niezli
 
 #### Jak dołączyć do #LinuxHot16Challange
 
-1. sklonuj to repozytorium. Napisz w terminalu (czy powershellu)
-
-```
-git clone https://github.com/ZPXD/LinuxHot16Challange
-```
-
+1. forkuj to repozytorium.
 2. Edytuj plik i Napisz swoją propozycję 32 poleceń które uważasz za najważniejsze na początku.
 3. Zastanów się dobrze. Wybór pierwszych 16 jest wbrew pozorom trudniejszy niż kolejnych.
 4. Do każdej z komend napisz pod spodem opis który będzie w prosty, zrozumiały być może ciekawy, zabawny sposób opisywał działanie funkcji. (trzymając się podanego formatu: komenda <nazwa:przyklad> np. komenda cd <katalog:/var/www> i max 1 linia opisu.)
