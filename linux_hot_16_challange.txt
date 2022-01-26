@@ -1,0 +1,195 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@lukasz-test 
+lukasz-test
+/
+flaga
+Public
+Code
+Issues
+Pull requests
+4
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+flaga/LinuxHot16Challange.txt
+@lukasz-test
+lukasz-test Update LinuxHot16Challange.txt
+Latest commit 621b2ab 17 hours ago
+ History
+ 1 contributor
+165 lines (104 sloc)  4.4 KB
+  
+# LinuxHot16Challange
+
+
+# Witajcie, 
+
+# W tym konkursie pokazujemy wszystkim, że Linux jest prosty fajny i przyjemny.
+# Wybieramy 32 (wg. was najważniejsze) komendy do Linuxa Ubuntu (18/20).
+# Do każdej komenty dodajemy 1 linijkowy opis. Może być na wesoło.
+ 
+# Ze wszystkich list wyliczymy listę top 16 i top 32.
+
+# Udział może brać każdy, początkujący i doświadczeni. Jeżeli wolisz poczekać na rezultat, 
+# to wejdź tutaj 1 Lutego.
+
+# Powodzenia! I pamiętaj, że robimy to aby przybliżyć ludziom Linuxa jako przyjazny system, więc zastanów się nad tym jak to dobrze opisać.
+
+# Pamiętaj o zwięzłości i czytelności. Te pliki będą zczytywane automatycznie, więc wyjście poza format sprawi, że Twoja propozycja nie zostanie uwzględniona:
+# 1. cd <folder:/var>
+# Teleportuje Cię do folderu /var.
+
+# 2. cd 
+# Teleportuje Cię do folderu glównego.
+
+# jak wpisujesz nazwę własną to pisz <co:przyklad> np. 
+# ssh -i <klucz:klucz.pem> <login:ubuntu>@<ip:1.1.1.1>
+
+# EDYTUJ PONIŻSZE LINIE:
+# O pliki będę pytał na zajęciach w ŚRODĘ o 19:00 ale możecie po prostu to wrzucać wszędzie aby popularyzować Linuxa.
+
+# UWAGA: WAŻNE JEST TRZYMANIE FORMATU.
+
+W kodzie, jak i w plikach z danymi w programowaniu utrzymujemy porządek. Trzymanie się określonych formatów i standardów sprawia, że można przetwarzać dane z bardzo wiele plików jednocześnie w krótkim czasie. Różne rodzaje formatów wymagały by większego skomplikowania kodu, przewidzenia w jakie sposoby można podejść do rozwiązania problemu. Tu jednak chcemy aby nasze rozwiązania zostały przeczytane przez wszystkich. Dlatego proszę, z wisienką na czubeczku: trzymaj się formatu:
+
+HOT 16
+
+# 1. komenda
+# Opis...
+
+# 2. ... 
+# ... 
+
+# 3. ...
+# ...
+
+...sh
+
+A jeżeli chcesz napisać po swojemu - to super (jak np:)
+https://github.com/rafaldinho19/Komendy-linux/
+
+ale wtedy napisz to jako drugi plik i nazwij go:
+LinuxHot16ChallangeFreestyle.txt
+
+
+
+
+
+# AUTOR: Ty
+
+# HOT 16
+
+# 1. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 2. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 3. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 4. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 5. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 6. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 7. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 8. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 9. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 10. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 11. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 12. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 13. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 14. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 15. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 16. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+
+
+# HOT 32
+
+# 17. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 18. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 19. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 20. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 21. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 22. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 23. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 24. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 25. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 26. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 27. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 29. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 30. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 31. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 32. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# https://zajecia-programowania-xd.pl/szturm_na_aws
+# https://www.facebook.com/Szturm-na-AWS-109216351659123
+# https://discord.gg/46JVvHgzqz
+
