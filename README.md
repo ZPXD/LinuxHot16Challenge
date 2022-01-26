@@ -44,6 +44,7 @@ Ze wszystkich podesłanych plików wyłonimy listę najczęściej zalecanych kom
 Wyniki ukażą się w lutym na stronie
 [Tu będzie link]
 
+Pierwsze wyniki będziemy publikować w lutym (szacuję, że w 1 tygodniu), ale nie wykluczone, że zgłaszać będzie się można jeszcze conajmniej do końca marca, a może i dłużej, bo czemu nie.
 
 #### ZPXD: Darmowe roczne zajęcia z programowania. Zapraszajcie:
 
