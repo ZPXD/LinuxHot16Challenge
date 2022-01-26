@@ -21,20 +21,23 @@ https://codeyourfuture.github.io/syllabus-master/others/assets/making-a-pull-req
 
 #### A. #LinuxHot16Challenge:
 
-Wersja konkursowa - wyniki LinuxHot16Chllenge
-https://github.com/ZPXD/LinuxHot16Challenge/tree/main/wasze_zwrotki
+Wersja konkursowa [LinuxHot16Chllenge](.
+https://github.com/ZPXD/LinuxHot16Challenge/tree/main/wasze_zwrotki). 
+
+Wasze typy będą użyte aby wybrać listę 16 najważniejszych komend linuxa (i wielu kolejnych).
+
 
 #### B. #LinuxHot16ChallengeFreestyle:
 
 Wersja freestyle - beda widoczne na specjalnej liscie freestyle i byc moze beda najciekawsze ale z uwagi na dowolny format to ta lista nie będzie uwzględniona w wyliczeniu które komendy są przez nas sumarycznie najczęściej polecane i na jakiej pozycji. W tym celu wypełnij najpierw wersje konkursową a potem zrób freestyle.
-https://github.com/ZPXD/LinuxHot16Challenge/tree/main/wasze_zwrotki_freestyle
 
-3. Edytuj plik i Napisz swoją propozycję 32 poleceń które uważasz za najważniejsze na początku.
-4. Zastanów się dobrze. Wybór pierwszych 16 jest wbrew pozorom trudniejszy niż kolejnych.
-5. Do każdej z komend napisz pod spodem opis który będzie w prosty, zrozumiały być może ciekawy, zabawny sposób opisywał działanie funkcji. (trzymając się podanego formatu: komenda <nazwa:przyklad> np. komenda cd <katalog:/var/www> i max 1 linia opisu.)
+Wersja freestylowa - może nawet ciekawsze [LinuxHot16ChllengeFreestyle](.
+https://github.com/ZPXD/LinuxHot16Challenge/tree/main/wasze_zwrotki_freestyle).
 
-Dla konkursowych zgłoszeń (będzie lista top zgłoszeń!)
-Dla freestylowych zgłoszeń (też będzie osobna lista! :) ): #LinuxHot16ChallangeFreestyle
+Otwórz link do A lub B i podążaj za instrukcjami.
+
+Obie listy będa opublikowane na stronie z wynikami.
+
 
 #### Co dalej?
 
