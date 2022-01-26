@@ -1,0 +1,20 @@
+Autor: mrkarpinski
+Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+
+1. cd - zmieni Ci katalog, lepiej zapamiętaj bratku
+2. rm - pliczek Ci skasuje, nie uzywaj go z przypadku
+3. touch - ten pliczek Ci znów stworzy, wiec uzywaj tego czesto
+4. ls - poda zawartosc katalogu, tutaj moze juz byc gęsto
+5. which - pokaze gdzie plik lezy, czesto bywa to pomocne
+6. grep - wyszuka stringa w tekscie, a wyniki wręcz owocne
+7. exit - wyjscie z terminala, o tym pamiętaj na koniec
+8. ping - Ci sprawdzi czy host stoi, będzie szybki niczym goniec
+9. mc - to taki commander, tylko troche na linucha
+10. vim - lepiej ogarnij, jak nie wyjdziesz będzie skucha
+11. ssh - połączy Ciebie w mig z zewnętrznym kontem shell
+12. clear - wyczyści Ci terminal, będzie to czerń a może biel
+13. git - to repo bardzo sprytne, będziesz tam trzymał swój kod
+14. mv/cp - tym skopiujesz swój plik - obok lub katalog pod
+15. apt - pobierze Ci pakiety i zainstaluje wnet
+16. systemctl - zarządca usług, ramię w ramię będzie szedł!
