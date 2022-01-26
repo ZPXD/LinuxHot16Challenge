@@ -14,6 +14,9 @@ Pokazujemy Linuxa Ubuntu jako przyjazny, fajny, łatwy do nauki system (o niezli
 #### Jak dołączyć do #LinuxHot16Chellange
 
 1. Forkuj to repozytorium.
+![alt text](
+https://codeyourfuture.github.io/syllabus-master/others/assets/making-a-pull-request/fork-button.png)
+
 2. Wybierz:
 
 #### A. #LinuxHot16Challenge:
