@@ -1,7 +1,6 @@
-# LinuxHot16Challenge
+# #LinuxHot16Challenge
 
 
-#LinuxHot16Challenge
 
 #### Link do strony www (Tu będą aktualne wyniki):
 [tu będzie link do www]
