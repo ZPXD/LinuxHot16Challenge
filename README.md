@@ -21,8 +21,7 @@ https://codeyourfuture.github.io/syllabus-master/others/assets/making-a-pull-req
 
 #### A. #LinuxHot16Challenge:
 
-Wersja konkursowa [LinuxHot16Chllenge](.
-https://github.com/ZPXD/LinuxHot16Challenge/tree/main/wasze_zwrotki). 
+Wersja konkursowa [LinuxHot16Chllenge](https://github.com/ZPXD/LinuxHot16Challenge/tree/main/wasze_zwrotki). 
 
 Wasze typy będą użyte aby wybrać listę 16 najważniejszych komend linuxa (i wielu kolejnych).
 
@@ -31,8 +30,7 @@ Wasze typy będą użyte aby wybrać listę 16 najważniejszych komend linuxa (i
 
 Wersja freestyle - beda widoczne na specjalnej liscie freestyle i byc moze beda najciekawsze ale z uwagi na dowolny format to ta lista nie będzie uwzględniona w wyliczeniu które komendy są przez nas sumarycznie najczęściej polecane i na jakiej pozycji. W tym celu wypełnij najpierw wersje konkursową a potem zrób freestyle.
 
-Wersja freestylowa - może nawet ciekawsze [LinuxHot16ChllengeFreestyle](.
-https://github.com/ZPXD/LinuxHot16Challenge/tree/main/wasze_zwrotki_freestyle).
+Wersja freestylowa - może nawet ciekawsze [LinuxHot16ChllengeFreestyle](https://github.com/ZPXD/LinuxHot16Challenge/tree/main/wasze_zwrotki_freestyle).
 
 Otwórz link do A lub B i podążaj za instrukcjami.
 
@@ -46,6 +44,7 @@ Ze wszystkich podesłanych plików wyłonimy listę najczęściej zalecanych kom
 Wyniki ukażą się w lutym na stronie
 [Tu będzie link]
 
+Pierwsze wyniki będziemy publikować w lutym (szacuję, że w 1 tygodniu), ale nie wykluczone, że zgłaszać będzie się można jeszcze conajmniej do końca marca, a może i dłużej, bo czemu nie.
 
 #### ZPXD: Darmowe roczne zajęcia z programowania. Zapraszajcie:
 
