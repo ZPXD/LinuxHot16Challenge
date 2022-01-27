@@ -12,10 +12,10 @@
 # Wypisuje listę wszystkich plików z bieżącego katalogu; również tych, które próbują się ukryć przed zwykłym `ls`.
 
 # 4. cd
-# 'chcę do' Przenosi cię do katalogu domowego; nawet wtedy, gdy nie pamiętasz jego nazwy. Gdy pamiętasz nazwę ("ścieżkę dostępu"), to przenosi cię do katalogu o tej nazwie.
+# 'Chcę Do' Przenosi do katalogu domowego; nawet wtedy, gdy nie pamiętasz jego nazwy. Gdy pamiętasz nazwę ("ścieżkę dostępu"), to przenosi cię do katalogu o tej nazwie.
 
 # 5. cd ..
-# Przenosi cię z bieżącego podkatalogu wyżej czyli do katalogu zawierającego podkatalog, w którym teraz jesteś.
+# Zmienia bieżący podkatalog na katalog wyżej czyli przenosi do katalogu zawierającego bieżący podkatalog.
 
 # 6. mc 
 # Potężne narzędzie, które skromnie przedstawia się jako menedżer plików, ale z plikami potrafi zrobić o wiele więcej, niż sobie wyobrażasz. Jak gejsza z wachlarzem. Wypróbuj `mcedit`.
