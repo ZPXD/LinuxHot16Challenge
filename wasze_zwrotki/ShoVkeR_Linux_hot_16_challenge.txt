@@ -1,0 +1,113 @@
+# AUTOR: lukasz_pintal
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. sudo
+# Pozwala czuć się władcą absolutnym swojego systemu.
+
+# 2. cd
+# Każde linuxowe dziecko kiedyś uczy się chodzić :D cd pozwala nam buszować po katalogach.
+
+# 3. ls
+# Kiedy już umiemy chodzić, warto jest też widzieć dokąd zmierzamy.
+
+# 4. pwd
+# kiedy umiemy już chodzić (cd) i opanowaliśmy zmysł wzroku (ls) warto wiedzieć gdzie jesteśmy, mapę wyjmujemy wpisując pwd
+
+# 5. rm
+# anihilacja plików oraz katalogów
+
+# 6. mkdir
+# dajemy zycie nowym katalogom
+
+# 7. touch
+# tworzymy sobie pliczki
+
+# 8. man
+# instrukcja obsługi naszego oręża jakim są wszyustkie dostępne polecenia
+
+# 9. cat
+# pozwala łączyć nasze pliki w potężniejsze pliki, ewentualnie w prosty sposób podejrzeć ich zawartość
+
+# 10. cp
+# Replikacja naszych plików wedle naszego uznania, kopiujemy pliki we wskazana lokalizacje
+
+# 11. mv
+# a gdyby tak ... to wszystko i wyjechac w bieszczady ? poleceniem mv mozemy wyslac nasz plik tam gdzie chcemy
+
+# 12. clear
+# Po wielkiej bitwie opadł kurz, clear sprząta pobojowisko po naszej batlii z terminalem i samym sobą
+
+# 13. apt
+# Kiedy stare zabawki już się nam znudzą, tym poleceniem możemy doistalować nowe
+
+# 14. passwd
+# zmieniamy hasło
+
+# 15. chmod
+# Pozwala na zmianę uprawnień do pliku
+
+# 16. chown
+# Pozwala nam zaanektować plik na własność
+
+
+
+# HOT 32
+
+# 17. reboot
+# Wspaniałe polecenie pozwalające często naprawić to co się popsuło, lub popsuć to co działało. restartujemy maszyne
+
+# 18. grep
+# poszukujemy tekstu w plikach
+
+# 19. history
+# sprawdzamy historie polecen.
+
+# 20. find
+# pomaga znalezc zgubione zabawki - szuka plikow
+
+# 21. df
+# sprawdzamy użycie naszego dysku
+
+# 22. kill
+# albo procesy są z nami albo przeciw nam, te które są przeciw zabijamy
+
+# 23. head
+# mozemy wyswietlic pierwsza linijke pliku (defaultowo 10 linijekk)
+
+# 24. tail
+# wyswietla ostatnia linike pliczku (defaultowo 10 linijekk)
+
+# 25. tar
+# tworzy archiwa
+
+# 26. ping
+# możemy sprawdzić nasze połączenie z usługami sieciowymi
+
+# 27. top
+# wyświetlami procesy które sobie dzialaja w tle
+
+# 28. hostname
+# pozwala nam wyswietlic hostname a z odpowiednimi parametrami np adres IP
+
+# 29. useradd
+# Dodanie usera
+
+# 30. userdel
+# usuniecie usera
+
+# 31. alias
+# Opozwala nam tworzyć aliasy dla komend
+
+# 32. less
+# Pozwala nam podejrzec pliki bez odpalania pelnego edytoria - so usefull
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
