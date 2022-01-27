@@ -18,7 +18,7 @@
 # Przenosi cię z bieżącego podkatalogu wyżej czyli do katalogu zawierającego podkatalog, w którym teraz jesteś.
 
 # 6. mc 
-# Potężne narzędzie, które skromnie przedstawia się jako menedżer plików, ale z plikami potrafi zrobić o wiele więcej, niż sobie wyobrażasz. Jak gejsza z wachlarzem. Wypróbuj `mcedit` 
+# Potężne narzędzie, które skromnie przedstawia się jako menedżer plików, ale z plikami potrafi zrobić o wiele więcej, niż sobie wyobrażasz. Jak gejsza z wachlarzem. Wypróbuj `mcedit`.
 
 # 7. vim
 # Potężny edytor plików. Gdy go nie znasz, jest jak labirynt: 'vim jak wejść, ale nie vim jak z niego wyjść i się :wq xD'. Gdy go poznasz, będziesz używał tak często, jak klucz 'szklana pięćdziesiątka' w warsztacie.
@@ -70,16 +70,16 @@
 # Pokazuje obciążenie i procesy wykonywane przez system i umożliwia zarządzanie nimi.
 
 # 22. vdir
-# Wypisuje zawartość katalogu w długim formacie.
+# Zawartość katalogu wypisuje w długim formacie.
 
 # 23. uniq -D -i <nazwa_pliku:lista_domen.txt>
-# Wywołany bez argumentów wypisuje wszystkie niepowtarzalne linie w pliku. Opcja '-D' odwraca zachowanie domyślne i wypisuje jedynie powtarzające się linie pliku. Opcja '-i' ignoruje wielkość liter.
+# Wywołany bez argumentów wypisuje wszystkie niepowtarzalne linie w pliku. Opcja '-D' odwraca zachowanie domyślne i wypisuje wielokrotnie wszystkie powtarzające się linie pliku. Opcja '-i' ignoruje wielkość liter.
 
 # 24. groups <użytkownik:ubuntu>
 # Wypisuje grupy, do których należy użytkownik 'ubuntu'. Bez dodatkowych argumentów wypisuje grupy, do których należy bieżący użytkownik.
 
 # 25. sleep 77s; echo "Pobudka!"
-# Pauzuje przez podany czas, po którego upływie wykonuje następne polecenie (tutaj: wypisuje string 'Pobudka!')
+# Pauzuje przez podany czas, po którego upływie wykonuje następne polecenie (tutaj: wypisuje string 'Pobudka!').
 
 # 26. env
 # Wypisuje i/lub zmienia zmienne środowiska.
@@ -94,7 +94,7 @@
 # Odpowiada na pytanie, kto jest zalogowany na serwerze - podaje loginy zalogowanych użytkowników.
 
 # 30 echo <string:"jakiś tekst lub wartość">
-# Odpowiednik Python'owego 'print()' - wypisuje na wyjście jakiś tekst lub wartość zmiennej 
+# Odpowiednik Python'owego 'print()' - wypisuje na wyjście jakiś tekst lub wartość zmiennej.
 
 # 31. nl <nazwa_pliku:flaga.txt>
 # Wypisuje na standardowe wyjście zawartość pliku 'flaga.txt' dodając na początku każdej linii jej numer.
