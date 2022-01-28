@@ -3,7 +3,7 @@
 # HOT 16
 
 # 1. whoami
-# Odpowiada na pytanie "Who am I? / Kim jestem?" - czyli pokazuje nazwę użytkownika.
+# Odpowiada na pytanie "Who am I? / Kim jestem?" - wypisuje nazwę użytkownika. Niestety nie wypisze dokąd użytkownik zmierza ;)
 
 # 2. cp -ui <plik:plik_oryginalny.txt> <plik:kopia_pliku.txt>
 # Kopiuje plik. Opcja '-u' kopiuje plik oryginalny tylko wtedy, gdy jest nowszy niż docelowy plik, opcja '-i' zapyta cię, czy nadpisać plik docelowy, gdy taki istnieje.
@@ -20,8 +20,8 @@
 # 6. mc 
 # Potężne narzędzie, które skromnie przedstawia się jako menedżer plików, ale z plikami potrafi zrobić o wiele więcej, niż sobie wyobrażasz. Jak gejsza z wachlarzem. Wypróbuj `mcedit`.
 
-# 7. vim
-# Potężny edytor plików. Gdy go nie znasz, jest jak labirynt: 'vim jak wejść, ale nie vim jak z niego wyjść i się :wq xD'. Gdy go poznasz, będziesz używał tak często, jak klucz 'szklana pięćdziesiątka' w warsztacie.
+# 7. vim (i jego tutorial: vimtutor)
+# Potężny edytor plików. Gdy go nie znasz, jest jak labirynt: 'vim jak wejść, ale nie vim jak z niego wyjść - mam :wq xD'. Gdy go poznasz, będziesz używał tak często, jak klucz 'szklana pięćdziesiątka' w warsztacie.
 
 # 8. pwd
 # 'Pokaż wujkowi drogę' - wypisuje ścieżkę dostępu do bieżącego katalogu.
