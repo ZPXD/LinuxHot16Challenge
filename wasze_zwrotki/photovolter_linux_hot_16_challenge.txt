@@ -6,13 +6,13 @@
 # Odpowiada na pytanie "Who am I? / Kim jestem?" - wypisuje nazwę użytkownika. Niestety nie wypisze dokąd użytkownik zmierza ;)
 
 # 2. cp -ui <plik:plik_oryginalny.txt> <plik:kopia_pliku.txt>
-# Kopiuje plik. Opcja '-u' kopiuje plik oryginalny tylko wtedy, gdy jest nowszy niż docelowy plik, opcja '-i' zapyta cię, czy nadpisać plik docelowy, gdy taki istnieje.
+# Kopiuje plik. Opcja '-u' kopiuje plik oryginalny tylko wtedy, gdy jest nowszy niż docelowy plik, opcja '-i' zapyta cię, czy nadpisać plik docelowy, gdy plik o takiej nazwie już istnieje.
 
 # 3. ls -A
 # Wypisuje listę wszystkich plików z bieżącego katalogu; również tych, które próbują się ukryć przed zwykłym `ls`.
 
 # 4. cd
-# 'Chcę Do' Przenosi do katalogu domowego; nawet wtedy, gdy nie pamiętasz jego nazwy. Gdy pamiętasz nazwę ("ścieżkę dostępu"), to przenosi cię do katalogu o tej nazwie.
+# '(c)hcę (d)o' Przenosi do katalogu domowego; nawet wtedy, gdy nie pamiętasz jego nazwy. Gdy pamiętasz nazwę ("ścieżkę dostępu"), to przenosi cię do katalogu o tej nazwie.
 
 # 5. cd ..
 # Zmienia bieżący podkatalog na katalog wyżej czyli przenosi do katalogu zawierającego bieżący podkatalog.
@@ -24,7 +24,7 @@
 # Potężny edytor plików. Gdy go nie znasz, jest jak labirynt: 'vim jak wejść, ale nie vim jak z niego wyjść - mam :wq xD'. Gdy go poznasz, będziesz używał tak często, jak klucz 'szklana pięćdziesiątka' w warsztacie.
 
 # 8. pwd
-# 'Pokaż wujkowi drogę' - wypisuje ścieżkę dostępu do bieżącego katalogu.
+# '(p)okaż (w)ujkowi (d)rogę' - wypisuje ścieżkę dostępu do bieżącego katalogu.
 
 # 9. head <nazwa_pliku:tldr-wazny_poczatek.txt>
 # Wypisuje zawartość początkowych linii pliku. 
