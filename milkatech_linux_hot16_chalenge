@@ -3,105 +3,105 @@
 
 # HOT 16
 
-# 1. komenda
-#
+# 1. ssh nazwa_uzytkownika@adres_ip      
+# łączenie z serwerem
 
-# 2. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 2. cd nazwa_katalogu 
+# wejście do katalogu
 
-# 3. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 3. cd ..
+# wyjście z katalogu
 
-# 4. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 4. mkdir nazwa_katalogu
+# tworzenie katalogu
 
-# 5. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 5. rmdir nazwa_katalogu
+# usuwanie katalogu
 
-# 6. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 6. pwd
+# sprawdzanie  w jakim katalogu jesteś
 
-# 7. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 7. ls nazwa_katalogu
+# pokazuje zawartość katalogu
 
-# 8. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 8. rm nazwa_pliku
+# usuwa plik
 
-# 9. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 9. cat nazwa_pliku
+# czyta zawartość pliku
 
-# 10. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 10. mv stara_nazwa nowa_nazwa
+# zmienia nazwę pliku
 
-# 11. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 11. mv nazwa_pliku nazwa_katalogu
+# przenoszenie pliku do katalogu
 
-# 12. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 12. lp nazwa_pliku
+# drukowanie pliku
 
-# 13. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 13. touch nazwa_pliku
+# tworzenie pustego pliku
 
-# 14. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 14. man nazwa_polecenia
+# info o danym poleceniu
 
-# 15. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 15. help 
+# wyświetla wszystkie polecenia w Linuxie
 
-# 16. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 16. find
+# znajdź
 
 
 
 # HOT 32
 
-# 17. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 17. history
+# pokazuje historie komendy
 
-# 18. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 18. uname
+# wyświetla informacje o systemie
 
-# 19. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 19. id
+# informacja o zalogowanym użytkowniku
 
-# 20. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 20. wc
+# zlicza liczbę słów
 
-# 21. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 21. dir
+# wyświetla zawartość katalogu
 
-# 22. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+#22. head nazwa_pliku
+# wyświetla 10 pierwszych linii z pliku
 
-# 23. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 23. tail nazwa_pliku
+# wyświetla 10 ostatnich linii z pliku
 
-# 24. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 24. gpg -c nazwa_pliku
+# szyfrowanie pliku
 
-# 25. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 25. nazwa_pliku.gpg
+# deszyfrowanie pliku
 
-# 26. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 26. sort
+# sortowanie plików w kolejności alfabetycznej
 
-# 27. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 27. diff nazwa_pliku  nazwa_pliku2
+# różnice w zawartości plików
 
-# 28. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 28. passwd
+# zmiana hasła
 
-# 29. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 29. clear
+# czyści terminal
 
-# 30. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 30. mail
+# otwiera plik z pocztą 
 
-# 31. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 31. vim
+# podstawowy edytor linux
 
-# 32. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 32. exit
+# wyjście z terminala.
 
 
 
