@@ -1,0 +1,65 @@
+# AUTOR: Demetress
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16 
+
+# 1. cd <nazwa_folderu>
+# change directory - przejście do wskazanego folderu
+
+# 2. cd ..
+# cofnięcie się o poziom wyżej
+
+# 3. mkdir <nazwa_folderu>
+# stworzenie nowego folderu
+
+# 4. touch <nazwa_pliku>
+# stworzenie nowego pliku
+
+# 5. pwd
+# bardzo przydatne komenda, pokazuje, gdzie aktualnie jesteśmy, wyświetla ścieżkę
+
+# 6. ls
+# druga super przydatna komenda, wyświetla listę plików w folderze, w którym aktualnie jesteśmy
+
+# 7. ls -la
+# wyświetla również pliki ukryte
+
+# 8. rm <nazwa_pliku>
+# usuwa plik
+
+# 9. rmdir <nazwa_katalogu>
+# usuwa katalog
+
+# 10. cd ~
+# przejście do katalogu głównego 
+
+# 11. sudo
+# jak coś Ci nie działa, daj sudo przed wpisaniem komendy, 80% szans, że teraz zadziała
+
+# 12. sudo su
+# przelogowuje na root, czyli użytkownika, który ma wszystkie uprawnienia, dowiedziałam się wczoraj od kolegów z discorda jak to działa, 
+bardzo fajne, nie trzeba sudo za każdym razem wpisywać, tylko trzeba z tym uważać, by czegoś nie namotać
+
+# 13. clear
+# czyści terminal, warto użyć, jak już zrobi się wielki bałagan i nie wiadomo co jest gdzie w terminalu
+
+# 14. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 15. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 16. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+
+
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
