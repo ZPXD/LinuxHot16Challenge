@@ -4,7 +4,7 @@
 
 1. Otwórz plik
 2. Wybierz 16 najważniejszych komend i 16 kolejnych, razem 32.
-3. Spisz całość kompletnie po swojemu jak chodzi o format i treść:
+3. Spisz całość trzymając się formatu w przykładzie, czyli: 1 max linia opisu. Ale kompletnie po swojemu jak chodzi o treść:
 - to może byc rap
 - to może być super techniczny osób
 - to może być totalnie po Twojemu
