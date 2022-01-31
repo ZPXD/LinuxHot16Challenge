@@ -34,8 +34,7 @@
 # Prefiks używany do wykonywania poleceń jako administrator.
 
 # 11. vim
-# Ksiązkowy przyklad love hate relationship. 
-Vim to troche taki boss w dark souls. Duzo osob gdy go zobaczylo, nie zobaczylo juz nic więcej.
+# Ksiązkowy przyklad love hate relationship. Vim to troche taki boss w dark souls. Duzo osob gdy go zobaczylo, nie zobaczylo juz nic więcej.
 
 # 12. ls
 # Wypisuje pliki w folderze.
@@ -45,8 +44,7 @@ Vim to troche taki boss w dark souls. Duzo osob gdy go zobaczylo, nie zobaczylo 
 Egzystencjonalne pytanie. wyswietla uzytkownika.
 
 # 14. find
-# Wyszukuje lokalizacje plikow. Niestety nie działa dla ważnych rzeczy,
-np. godności po weekendowym melanżu.
+# Wyszukuje lokalizacje plikow. Niestety nie działa dla ważnych rzeczy,np. godności po weekendowym melanżu.
 
 # 15. man
 # manual pomagajacy odnalezc sie w komendach i mozliwych poleceniach.
