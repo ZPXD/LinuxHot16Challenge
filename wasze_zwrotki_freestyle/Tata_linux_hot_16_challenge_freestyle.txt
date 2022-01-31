@@ -1,0 +1,29 @@
+# 1. sudo - "superuser do"; najważniejsza komenda gdy nie działamy na roocie! Pozwala nam korzystać z pełni uprawnień.
+# 2. vim - "vi improved"; korzystałeś z nano? Wypróbuj VIMa, ale wcześniej sprawdź jak się go używa - gwarantuję, że nie wrócisz do nano!
+# 3. cd - "change directory"; komenda służąca do przemieszania się pomiędzy katalogami. Występuje w poniższych opcjach:
+#         cd - przenosi do katalogu domowego;
+#         cd katalog/ścieżka - przenosi do podanego katalogu znajdującego się w obecnej śćieżce, bądź do podanej ścieżki;
+#         cd .. - przenosi wstecz  o jeden katalog w podanej scieżce;
+#         cd- - przenosi do wcześniej używanej ścieżki
+# 4. pwd - "print working directory"; komenda wyświetlająca obecną ścieżkę, w której się znajdujemy.
+# 5. ls - "list files"; komenda listująca wszystkie pliki w aktualnej ścieżce. Można używać z:
+#         ls -R - wyświetli wszyskie pliki, wliczając te znajdujące się w podkatalogach obecnej ścieżki
+#         ls -a - wyświetli ukryte pliki
+#         ls -l - wyświetli dłuższe listowanie wświetlając również uprawnienia
+# 6. cat - "concatenate"; najczęściej używana w celu wyświetlenia zawartości tekstowej pliku, ale może być używana również:
+#         cat > plik - tworzy plik o nazwie "plik"
+#         cat plk1 plik2>plik3 - łączy plik1 z plikiem2 tworząc plik3
+# 7. mkdir - "make directory"; komenda pozwalająca na utworzenie katalogu. Stosująć ją z -p możemy utworzyć katalog pomiędzy dwoma isntiejącymi.
+#         przykładowo mkdir -p Katalog1/Katalog3/Katalog2 utworzy Katalog3 pomiędzy Katalogiem1 a Katalogiem2.
+# 8. rmdir - "remove directory"; usunie TYLKO pusty katalog.
+# 9. rm - "remove"; komenta usuwająca pliki, bądź katalogi z całą ich zawartością. Zaleca zachować się szczególną uwagę - operacji nie można cofnąć.
+# 10. man - "manual"; komenda wyświetlająca instrukcję do innych komend wraz z ich dokładnym opisem. W zasadzie można ją śmiało wcisnąć na pierwszą pozycję.
+# 11. cp - "copy"; komenda pozwalająca na kopiowanie plików i katalogów. cp plik1 plik2 spowoduje skopiowanie plik1 do nowego pliku o nazwie plik2.
+# 12. mv - "move"; koemnda pozwalająca na przemieszczanie plików i katalogów pomiędzy innymi katalogami. 
+#         mv plik1 ścieżka - owoduje przesunięcie plik1 do podanej ścieżki
+#         mv plik1 plik2 - użyte w obecnej ścieżce spowoduje zmianę nazwy plik1 w plik o nazwie plik2
+# 13. touch - pozwala na zmianę daty modyfikacji pliku przez touch -m plik, ale stosowana jest przeważnie do tworzenia nowych plików.
+# 14. kill - zabija procesy wewnątrz systemu, pozwalając tym samym na zamknięcie/zabicie nieodpowiadającego programu.
+# 15. grep - o boże "globally search for a regular expression and print"; znajduje interesujący nas tekst w pliku/-ach, pozwala zliczyć słowa występujące w pliku.
+#         komenda warta przećwiczenia, a po obszerniejsze instrukcje odsyłam do manuala bądź google
+# 16. wget - "world wide web get"; pozwala na pobranie zawartości z internetu: wget linkDoPliku/plik.py pobierze nam plik.py z linku linkDoPliku.

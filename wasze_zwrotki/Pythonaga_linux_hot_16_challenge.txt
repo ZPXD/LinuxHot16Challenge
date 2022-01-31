@@ -1,0 +1,113 @@
+# AUTOR: Pythonaga
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. cd
+# Tak przejdziesz do wybranego katalogu - przykład: cd nazwa katalogu.
+
+# 2. cd ..
+# Tak wrócisz do poprzedniego katalogu.
+
+# 3. --help
+# Nie wiesz jak coś działa? Nie ma ogarniaczy pod ręką? Użyj helpa. Przykład: komenda --help (cd --help). Tip: -h zamiast --help również działa).
+
+# 4. man 
+# Nie ma ogarniaczy? Potrzebujesz pomocy? Man (mnanual) jest pomocnym kolegą, może tu coś znajdziesz. ;) Przykład: man komenda (np.: man ifconfig). 
+
+# 5. pwd
+# Odpowiada na pytanie gdzie się obecnie znajdujemy. 
+
+# 6. ls
+# Wyświetla zawartość pliku.
+
+# 7. up arrow
+# Strzałką w górę wyświetlisz ostatnią komendę, naciskaj do skutku, pokażą się kolejne, nie trzeba będzie wpisywać co chwilę tego samego :)
+
+# 8. CTRL+R
+# Strzałka w górę nie pomaga? Przeszukaj historię komend wstecz, naciskaj aż znajdziesz :) 
+
+# 9. CTRL+A
+# Namieszasz i chcesz coś dopisać np sudo z przodu - CTRL+A ustawia kursor na początku linijki :)
+
+# 10. touch
+# Tworzy plik. Przykład touch nazwa_pliku
+
+# 11. mkdir
+# Tworzy folder. Przykład: mkdir nazwa_folderu.
+
+# 12. rm 
+# Namieszasz, chcesz usunąć - użyj rm. Przykład rm nazwa_pliku.
+
+# 13. ps -ef
+# Pokazuje procesy wraz z unikalnym numerem PID. 
+
+# 14. kill PID
+# Zabija proces, którego nie chcesz. Przykład - sprawdzasz ps -ef, kopiujesz PID, piszesz kill PID - proces zabity :)
+
+# 15. chmod 777
+# Jak wpadniesz w panikę i nic nie działa, spróbuj zmienić uprawnienia używając chmod. (777 - wszystko wszystkim, to nie jest dobra praktyka, poczytaj o uprawnieniach ;) )
+
+# 16. chown 
+# Zmienia właściciela np.pliku. Przykład: chown nazwa__nowego_wlasiciela nazwa_pliku
+
+
+
+# HOT 32
+
+# 17. sudo
+# Wykonywanie akcji jako administrator root.
+
+# 18. vi
+# Otwieranie pięknego edytora tekstowego :) 
+
+# 19. ESC :q!
+# Najbardziej poszukiwana odpowiedz, prawie bursztynowa komnata linuxa - jak wyjść z vi :) 
+
+# 20. exit
+# Wychodzi z programu. 
+
+# 21. CTRL+C
+# Kopiuj, wklej?? ZAPOMNIJ, że to znasz. CRTL+C przerywa działanie programu, nie wciskaj przypadkiem ;) 
+
+# 22. whoami
+# Kim jestem? Wyświetlanie nazwy aktualnie zalogowanego użytkownika.
+
+# 23. ifconfig
+# Wyświetla status aktywnych interfejsów sieciowych, tu znajdziesz swoje ip. 
+
+# 24. which 
+# Służy do lokalizowania pliku wykonywalnego skojarzonego z danym poleceniem. Przykład: which gunicorn 
+
+# 25. cp
+# Kopiuj. Przykład: cp nazwa_pliku nowa_nazwa pliku - stworzy kopię pliku pod nową nazwą
+
+# 26. mv
+# Przesunie np.plik z folderu do folderu. W ten sposób można też zmienić nazwę pliku. Przykład: mv plik /nowy_folder
+
+# 27. rm -rf 
+# Polecenie wymusza usunięcie katalogu, nawet jeśli ma uprawnienia tylko do odczytu i/lub jest z zawartością. Przykład: rm -rf nazwa_katalogu
+
+# 28. find
+# Bardzo rozbudowana szukajka, warto się zapoznać dokładniej. Przykład: find . -name nazwa_pliku  (. to bieżący katalog - więc w tym przypadku szukamy "tu, gdzie jesteśmy")
+
+# 29. grep
+# Przeszuka pliki szukając określonego ciągu znaków. Warto poznać jego funckje. Przykład: grep [-opcje] wzorzec [plik lub ścieżka] (grep -e 'tego_szukam' nazwa_pliku)
+
+# 30. cat 
+# Przekierowuje plik na standardowe wyjście - wyświetla na ekranie. Daje szybki podgląd. Przykład: cat nazwa_pliku
+
+# 31. > lub >>
+# Przekierowuje wyjście do innego pliku. > nadpisze, >> dopisze do końca pliku Przykład: cat nazwa_pliku >> nowy_plik 
+
+# 32. /dev/null
+# Nibylandia linuxa, wysyłanie w kosmos.Przykład: find -name "plik.*" 2>/dev/null – jeśli wsród wyników szukania nie chcemy oglądać komunikatów o błędach.
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
