@@ -1,0 +1,61 @@
+# AUTOR: subor99
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. sudo
+# uruchamia komendy z roota (jak nie działa to daj sudo xD)
+
+# 2. cd
+# przenosi do podanego katalogu
+
+# 3. su
+# zmieniamy użytkownika
+
+# 4. rm
+# usuwa plik
+
+# 5. rm -r
+# usuwa katalog wraz z zawartością
+
+# 6. rm -f
+# usuwa plik nie pytając nas o zdanie (OSTROŻNIE!!!)
+
+# 7. touch
+# tworzy pusty plik
+
+# 8. pwd
+# pokazuje w jakim katalogu się obecnie znajdujemy
+
+# 9. exit
+# wyjście z terminala
+
+# 10. which
+# podaje lokalizację pliku
+
+# 11. whoami
+# okazuje kim (naprawde) jesteś
+
+# 12. ls
+# wyświetla zawartość katalogu w którym obecnie się znajdujemy
+
+# 13. cat
+# otwiera plik i wyświetla jego zawartość w terminalu
+
+# 14. mkdir
+# tworzy katalog
+
+# 15. rmdir
+# usuwa katalog
+
+# 16. cp
+# tworzy kopie pliku
+ 
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
