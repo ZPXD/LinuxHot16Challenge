@@ -50,59 +50,7 @@
 
 # 16. cp
 # tworzy kopie pliku
-
-
-
-# HOT 32
-
-# 17. reboot
-# 
-
-# 18. komenda
-# 
-
-# 19. komenda
-# 
-
-# 20. komenda
-# 
-
-# 21. komenda
-# 
-
-# 22. komenda
-# 
-
-# 23. komenda
-# 
-
-# 24. komenda
-# 
-
-# 25. komenda
-# 
-
-# 26. komenda
-# 
-
-# 27. komenda
-# 
-
-# 28. komenda
-# 
-
-# 29. komenda
-# 
-
-# 30. komenda
-# 
-
-# 31. komenda
-# 
-
-# 32. komenda
-# 
-
+ 
 
 
 
