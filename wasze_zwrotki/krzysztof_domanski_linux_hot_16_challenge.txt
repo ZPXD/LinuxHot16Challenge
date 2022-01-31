@@ -1,0 +1,113 @@
+# AUTOR: krzysztof_domanski
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. cd
+# Zmiana katalogu (np.: cd /var/www)
+
+# 2. ls
+# Wyświetlanie zawartości katalogu (np.: ls -la)
+
+# 3. cp
+# Kopiowanie plików i katalogów (np.: cp plik1.py plik2.py)
+
+# 4. rm
+# Usuwanie plików lub katalogów (np.: rm plik2.py)
+
+# 5. pwd  
+# Wyświetlenie ścieżki do katalogu bieżącego (np.: pwd)
+
+# 6. mkdir
+# Tworzenie katalogu (np.: mkdir katalog1)
+
+# 7. rmdir
+# Usuwanie katalogu (np.: rmdir katalog1)
+
+# 8. mam
+# Wyświetlenie pomocy do komend (np.: man mkdir)
+
+# 9. mv
+# Przeniesienie (zmiana nazwy) pliku lub katalogu (np.: mv plik1.py plik3.py)
+
+# 10. touch
+# Zmiana daty ostatniej modyfikacji lub utworzenie nowego pliku jeśli nie istnieje (np.: touch plik4.py)
+
+# 11. ps
+# Lista procesów (np.:  ps -ef)
+
+# 12. clear
+# Czyszczenie terminala (np.: clear)
+
+# 13. grep
+# Wyszukanie i wypisanie tekstu pasującego do zadanego wzorca (np.: grep "Linia" plik4.py)
+
+# 14. chmod
+# Zmiana praw dostępu do pliku (np.: chmod 755 plik4.py)
+
+# 15. chown
+# Zmiana właściciela i grupu pliku lub katalogu (np.: chown uzytkownik1 plik4.py)
+
+# 16. exit
+# Wyjście z terminala (np.: exit)
+
+
+
+# HOT 32
+
+# 17. cat
+# Łączenie plików i wyświetlenie zawartości na standardowe wyjście (np.: cat plik3.py plik4.py)
+
+# 18. kill
+# Wysłanie sygnału zakończenia do procesu (np.: kill 17940)
+
+# 19. find
+# Wyszukiwanie plików lub folderów (np. find -name plik4.py)
+
+# 20. passwd
+# Zmiana hasła użytkownika (np.: passwd uzytkownik1)
+
+# 21. whoami
+# Wyświetlanie informacji (bieżacy uid) o użytkowniku, na którego koncie działamy (np.: whoami)
+
+# 22. who
+# Wyświetlanie informacji o zalogowanych użytkownikach (np.: who)
+
+# 23. useradd
+# Dodawanie konta użytkownika na serwerze (np.: useradd uzytkownik3 -g staff -m -d /home/uzytkownik3) 
+
+# 24. su
+# Logowanie na konto innego użytkownika (np.: su uzytkownik1)
+
+# 25. sudo
+# Uruchomienie programu z uprawnieniami administratora (np.: sudo systemctl start flaga.service)
+
+# 26. df
+# Wyświetlanie informacji o dostępnej przestrzeni dyskowej (np.: df -k)
+
+# 27. top
+# Wyświetlanie informacji o najważniejszych procesach (np.: top)
+
+# 28. date
+# Wyświetlanie bądź ustawienie daty i czasu na serwerze (np.: date)
+
+# 29. printenv
+# Wyświetlenie informacji o zmiennych środowiskowych (np.: printenv)
+
+# 30. nl
+# Wyświetla zawartość pliku wraz z ponumerowanymi wierszami (np.: nl plik3.py)
+
+# 31. head
+# Wyświetla początkową część pliku (np.: head plik3.py)
+
+# 32. history
+# Wyświetlenie historii poleceń (np.: history)
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
