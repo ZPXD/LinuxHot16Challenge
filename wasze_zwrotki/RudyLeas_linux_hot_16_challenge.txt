@@ -1,0 +1,62 @@
+# AUTOR: RudyLeas
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. cd
+# change directory- zmienia folder w którym się znajdujemy
+
+# 2. ls
+# Wypisuje zawartość katalogu w ktorym sie znajdujemy 
+
+# 3. mkdir
+# (make directory) tworzy nowy folder
+
+# 4. cat
+# kot- łączenie plików
+
+# 5. rm
+# (remove)-usuwamy:))
+
+# 6. cp
+# (copy) kopiujemy plik cp plik1.txt plik2.txt
+
+# 7. clear
+# czyścimy ekran terminala.
+
+# 8. touch
+# Tworzymy nowy plik.
+
+# 9. pwd
+# Sprawdzamy obecną lokalizację.
+
+# 10. sudo
+# Prefiks używany do wykonywania poleceń jako administrator.
+
+# 11. vim
+# Ksiązkowy przyklad love hate relationship. 
+Vim to troche taki boss w dark souls. Duzo osob gdy go zobaczylo, nie zobaczylo juz nic więcej.
+
+# 12. ls
+# Wypisuje pliki w folderze.
+
+# 13. whoami
+# Kim jestem, dokąd zmierzam?
+Egzystencjonalne pytanie. wyswietla uzytkownika.
+
+# 14. find
+# Wyszukuje lokalizacje plikow. Niestety nie działa dla ważnych rzeczy,
+np. godności po weekendowym melanżu.
+
+# 15. man
+# manual pomagajacy odnalezc sie w komendach i mozliwych poleceniach.
+
+# 16. kill
+# Unixowe mafijne porachunki, gdy jakiś proces nam nie sprzyja najłatwiejsza metoda by się go pozbyć.
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
