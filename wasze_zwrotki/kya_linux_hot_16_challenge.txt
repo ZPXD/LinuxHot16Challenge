@@ -1,0 +1,112 @@
+# AUTOR: kya
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. history
+# lista poprzenio wywoływanych poleceń
+
+# 2. cd
+# przejście do innego katalogu
+
+# 3. ls
+# lista plików w obecnym katalogu.
+
+# 4. cat 
+# wyświetlenie w terminalu zawartości pliku
+
+# 5. mkdir
+# tworzenie nowego katalogu
+
+# 6. sudo su -
+# zmiana uzytkownika na roota
+
+# 7. pwd
+# informacja o aktulnej lokalizacji
+
+# 8. man
+# manual do danego polecenia
+
+# 9. rm
+# kasowanie pliku
+
+# 10. rmdir
+# kasowanie katalogu
+
+# 11. ps
+# listowanie aktualnych procesów
+
+# 12. systemctl
+# zarządzanie usługami
+
+# 13. python3
+# uruchamianie skryptu w pythoanie
+
+# 14. ssh 
+# łączenie się z serwerem
+
+# 15. git
+# zarządzanie repo
+
+# 16. find
+# wyszukiwania pliku
+
+
+
+# HOT 32
+
+# 17. grep
+# wyszukiwania ciągu znaków w pliku
+
+# 18. reboot
+# restart serwera.
+
+# 19. shutdown 
+# wyłącznie serwera
+
+# 20. wget
+# pobieranie zawartości strony
+
+# 21. apt
+# instalacja nowego oprogramowania
+
+# 22. vim
+# alternatywny dla nanao edytor plików tekstowych
+
+# 23. df
+# sprawdzanie zajętości filesystemów
+
+# 24. mv
+# przenoszenie plików
+
+# 25. passwd
+# zmiana hasła
+
+# 26. pip
+# instalator paczek pythonowych
+
+# 27. journalctl
+# sprawdzanie logów systemowych
+
+# 28. ping
+# spradzanie połączenia z serwerem
+
+# 29. kill
+# ubijanie procesu
+
+# 30. crontab -e
+# charmonogramowanie zadań
+
+# 31. chown
+# zmiana właściciela pliku
+
+# 32. chmod 
+# zmiana uprawnień do pliku
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
