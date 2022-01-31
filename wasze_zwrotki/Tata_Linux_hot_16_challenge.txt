@@ -1,0 +1,52 @@
+# AUTOR: Tata
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. sudo
+# "superuser do"; najważniejsza komenda gdy nie działamy na roocie! Pozwala nam korzystać z pełni uprawnień.
+
+# 2. vim
+# "vi improved"; korzystałeś z nano? Wypróbuj VIMa, a nie wrócisz do nano! Zapoznaj się z komendami
+
+# 3. cd
+# "change directory"; komenda służąca do przemieszania się pomiędzy katalogami 
+
+# 4. pwd
+# "print working directory"; komenda wyświetlająca obecną ścieżkę, w której się znajdujemy.
+
+# 5. ls
+# "list files"; komenda listująca wszystkie pliki w aktualnej ścieżce.
+
+# 6. cat
+# "concatenate"; najczęściej używana w celu wyświetlenia zawartości tekstowej pliku
+
+# 7. mkdir
+# "make directory"; komenda pozwalająca na utworzenie katalogu
+
+# 8. rmdir 
+# "remove directory"; usunie TYLKO pusty katalog
+
+# 9. rm 
+# "remove"; komenta usuwająca pliki, bądź katalogi z całą ich zawartością
+
+# 10. man 
+# "manual"; komenda wyświetlająca instrukcję do innych komend wraz z ich dokładnym opisem
+
+# 11. cp 
+# "copy"; komenda pozwalająca na kopiowanie plików i katalogów
+
+# 12. mv 
+# "move"; koemnda pozwalająca na przemieszczanie plików i katalogów pomiędzy innymi katalogami
+
+# 13. touch 
+# stosowana jest przeważnie do tworzenia nowych plików
+
+# 14. kill 
+# zabija procesy wewnątrz systemu, pozwalając tym samym na zamknięcie/zabicie nieodpowiadającego programu
+
+# 15. grep 
+# "globally search for a regular expression and print"; znajduje interesujący nas tekst w pliku/-ach
+
+# 16. wget 
+# "world wide web get"; pozwala na pobranie zawartości z internetu

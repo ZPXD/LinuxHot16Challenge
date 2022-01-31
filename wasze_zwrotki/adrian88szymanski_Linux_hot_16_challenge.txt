@@ -1,0 +1,113 @@
+# AUTOR: Adrian/Gorthin
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. sudo
+# Dzięki tej komendzie możemy zostać adminami systemu i dostajemy wyższe uprawnienia. 
+
+# 2. pwd
+# Wypisuje ścieżkę obecnego katalogu (od 'print working directory')
+
+# 3. ls
+# Listuje katalog - wyświetla co znajduje się w obecnym katalogu (np. ls -la).
+
+# 4. cd
+# Zmienia aktualny katalog (od 'change directory') (np. cd /var/www).
+
+# 5. man
+# Wyświetla nam pomocdo danej komendy (np. man cat).
+
+# 6. mkdir
+# Tworzenie katalogu (np. mkdir moj_nowy_katalog).
+
+# 7. rmdir
+# Usuwa katalog (np. rmdir katalog).
+
+# 8. cp
+# Koiuje plik (np. cp plik1 plik2).
+
+# 9. rm
+# Kasuje plik (np. rm plik.txt).
+
+# 10. mv
+# Przesuwa plik (np. mv plik3 ../katalog/jakis/).
+
+# 11. touch
+# Tworzy nam pusty plik (np. touch plik.txt).
+
+# 12. cat
+# Komenda cat służy przede wszystkim do konkatenacji (łączenia) plików, ale może być również wykorzystana do wyświetlenia plików czy stworzenia nowego pliku (np. cat plik).
+
+# 13. find
+# Popularna metoda do wyszukiwania plików i folderów (np.find . -name raport.txt).
+
+# 14. grep
+# Grep służy do wyszukiwania i wyodrębniania w plikach określonego ciągu znaków tekstu (np. grep moj_wzorzec pliki1).
+
+# 15. which
+# Wypisuje gdzie znajduje się plik z programem o podanej nazwie (np. which app.py).
+
+# 16. |
+# | tzw 'potok'. Aby otrzymać interesujący nas wynik angażujemy kilka róznych procesów. Każdy kolejny proces w potoku bierze dane wejściowe z poprzedniego procesu (np.cat plik.txt | tac | grep "coś" | head).
+
+
+
+# HOT 32
+
+# 17. chmod
+# Zmienia prawa dostępu do pliku (np. chmod o+r plik).
+
+# 18. >
+# Przekierowanie wyjścia z programu do pliku (np. echo "ala ma kota" > plik.txt).
+
+# 19. >>
+# Doklejenie wyjścia z programu na koniec pliku (np. echo "ala ma psa" >> plik.txt).
+
+# 20. ps
+# Wypisuje procesy uruchomione na komputerze.
+
+# 21. top
+# Interaktywne narzędzie do monitorowania procesów.
+
+# 22. alias
+# Ustawia i wypisuje definicje skrótowych komend ('aliasów'), które są obecnie ustawione w środowisku (np. alias htdocs=”cd /opt/lampp/htdocs”).
+
+# 23. kill
+# Zakończenie procesu (np. kill 19700).
+
+# 24. df
+# Wyświetl informacje o dostępnej przestrzeni dyskowej (np.: df -k).
+
+# 25. du
+# Ustal ile miejsca na dysku zajmuje plik.
+
+# 26. reboot
+# Restart systemu.
+
+# 27. uname
+# Wyświetlanie informacji o systemie.
+
+# 28. head
+# Wyświetla początkową część pliku (np.: head plik.txt).
+
+# 29. printenv
+# Wyświetlenie informacji o zmiennych środowiskowych (np.: printenv).
+
+# 30. clear
+# Czyszczenie terminala.
+
+# 31. passwd
+# Zmiana hasła użytkownika (np.: passwd uzytkownik1).
+
+# 32. useradd
+# Dodawanie konta użytkownika na serwerze (np.: useradd uzytkownik3 -g staff -m -d /home/ubuntu).
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
