@@ -1,0 +1,113 @@
+# AUTOR: Dracen
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. cd
+# przejście do danego katalogu
+
+# 2. ls
+# wylistowanie plików
+
+# 3. ll -h
+# ładniejsze wylistowanie plików z uprawnieniami i rozmiarem
+
+# 4. cp
+# kopiowanie plików
+
+# 5. mkdir
+# utworzenie katalogu
+
+# 6. rm
+# usunięcie pliku
+
+# 7. mv
+# przemieszczenie plików/katalogów
+
+# 8. scp
+# przekopiowanie plików/katalogów na inny serwer
+
+# 9. find
+# wyszukanie gdzie znajduje się dany plik
+
+# 10. chmod
+# nadanie uprawnień pliku/katalogu
+
+# 11. chown
+# zmiana właściciela/grupy na pliku/katalogu
+
+# 12. pwd
+# wylistowanie ściezki gdzie się znajdujemy
+
+# 13. df -h
+# wykazanie zamontowanych partycji z ich rozmiarem
+
+# 14. grep
+# wyszukanie/przeszukanie plików/katalogów mega przydatne przy użyciu z |
+
+# 15. touch
+# utworzenie pliku
+
+# 16. sudo
+# wykonanie komendy jako admin
+
+
+
+# HOT 32
+
+# 17. vim
+# ulepszony notatnik vi, wg mnie lepszy niz nano :)
+
+# 18. ps aux 
+# wylistowanie procesów
+
+# 19. curl
+# wysyła zapytania do danych stron internetowych
+
+# 20. history
+# wylistowanie wszystkich komend wykonanych przez danego użytkownika
+
+# 21. systemctl
+# zarządca usług np flaga
+
+# 22. apt/yum/dnf
+# zależnie od środowiska i jej wersji zarządca ściagania aplikacji w Ubuntu/CentOs/Redhat 
+
+# 23. clear
+# wyczyszczenie okna terminala
+
+# 24. screen
+# świetne narzędzie do utworzenia sesji, z której możemy się odłączyć i połączyć w każdym momencie nawet jak nas wyrzuci
+
+# 25. lsof -i :80
+# komenda wykazująca co gdzie i jak działa, np co działa na jakim porcie, w tym przypadku port 80
+
+# 26. ip a
+# wykaz interfejsów sieciowych
+
+# 27. pip/pip3
+# komenda Pythona 3 menadżer paczek np wirtualnego środowiska virtualenv
+
+# 28. ln -s
+# tworzenie dowiązania między plikiem istniejącym a nowo utworzonym
+
+# 29. reboot
+# restart serwera, mozna rowniez uzyc komendy shutdown -r now
+
+# 30. man
+# dokumentacja, mozemy uzyc przed kazda komenda by dowiedziec sie jak ja poprawnie uzyc
+
+# 31. kill
+# ubicie, zabicie niechcianego procesu
+
+# 32. usermod
+# modyfikacja istniejacego uzytkownika, np dodanie go do grupy sudo
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
