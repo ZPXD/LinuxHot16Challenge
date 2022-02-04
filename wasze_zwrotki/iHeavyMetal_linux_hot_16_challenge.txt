@@ -1,0 +1,113 @@
+# AUTOR: iHeavyMetal
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. cd
+# Zmiana katalogu cd "nazwa katalogu". Wariacje: cd .. - wyjście katalog "wyżej". cd / - przejście do katalogu głównego 
+
+# 2. ls/dir
+# wyświetla listę podkatalogów katalogu w którym jesteśmy. ls * - wyświetla drzewo katalogów i plików
+
+# 3. mkdir
+# Tworzy katalog. Mkdir "nazwa katalogu"
+
+# 4. mv
+# Zmiana nazwy pliku "mv test1.txt test2.txt"
+
+# 5. pwd
+# Wyświetla ścieżkę w której się znajdujemy.
+
+# 6. clear
+# Czyści okno terminala.
+
+# 7. cp 
+# Kopiowanie pliku "cp test1.txt /root/"
+
+# 8. rm 
+# Usuwa plik "rm /root/test/test1.txt"
+
+# 9. rmdir
+# Usuwa pusty katalog katalog "rm /root/test/test1"
+
+# 10. rm -r
+# Usuwa katalog wraz z zawartością "rm -r /root/test/test2"
+
+# 11. env
+# Dunno ?????????????
+
+# 12. locate
+# Install: sudo apt-get install locate. Polecenie korzysta z bazy danych, reczny update >> "sudo updatedb". "locate test1.txt"
+
+# 13. whoami
+# Wyświetla nazwe konta na którym pracujemy.
+
+# 14. apt
+# Polecenie służace do zarządzania pakietami APT. apt-get install locate/nano/etc ... apt-get remove/update/upgrade/remove.
+
+# 15. history
+# Lista wszystkich komend użytkownika
+
+# 16. sudo
+# Tymczasowo podnosi poziom uprawnień do poziomu administracyjnego głównego usera.
+
+
+
+# HOT 32
+
+# 17. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 18. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 19. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 20. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 21. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 22. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 23. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 24. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 25. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 26. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 27. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 28. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 29. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 30. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 31. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 32. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
