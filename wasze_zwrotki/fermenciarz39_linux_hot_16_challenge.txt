@@ -1,0 +1,113 @@
+# AUTOR: fermenciarz39
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. clear
+# Czyszczenie okna termianala.
+
+# 2. cd
+# Zmiana katalogu.
+
+# 3. mkdir/rmdir
+# Tworzenie katalogu/Usuwanie katalogu.
+
+# 4. ls
+# Komenda do wyświetlania zawartości katalogu.
+
+# 5. rm
+# Usuń plik lub katalog.
+
+# 6. cp
+# Kopiowanie plików i katalogów.
+
+# 7. touch
+# Utworzenie nowego pliku.
+
+# 8. dir
+# Wyświetla zawartość katalogu.
+
+# 9. mv
+# Przenieś (zmień nazwę) plik lub katalog.
+
+# 10. kill
+# Kończenie procesu.
+
+# 11. passwd
+# Zmiana hasła.
+
+# 12. sudo
+# Uruchomienie programu z uprawnieniami administratora.
+
+# 13. man
+# Wyświetlanie pomocy.
+
+# 14. find
+# Wyszukiwanie plików lub folderów.
+
+# 15. chmod
+# Zmiana praw dostępu do pliku.
+
+# 16. pwd
+# Wskazuje aktualny katalog, w którym znajdujemy się.
+
+
+
+# HOT 32
+
+# 17. uname
+# Wyświetlanie informacji o systemie.
+
+# 18. lshw
+# Wyświetla informacje o sprzętowej konfiguracji.
+
+# 19. adduser
+# Dodawanie nowego użytkownika. 
+
+# 20. cat
+# Wyświetla zawartość pliku w oknie terminala.
+
+# 21. gpg -c
+# Szyfrowanie pliku.
+
+# 22. shutdown
+# Zamykanie restartowanie systemu linux w zależności od parametru.
+
+# 23. talk
+# Interaktywna rozmowa.
+
+# 24. finger
+# Informacja o użytkownikach .
+
+# 25. exit
+# Wyjście z terminala.
+
+# 26. su
+# Logowanie na konto innego użytkownika.
+
+# 27. ip
+# Służy do sprawdzenia i zmieniania konfiguracji interfejsów.
+
+# 28. ping
+# Diagnozowanie połączeń sieciowych.
+
+# 29. ssh
+# program do zdalnego logowania używając połączenia szyfrowanego.
+
+# 30. whoami
+# wyświetla nazwę użytkownika.
+
+# 31. host
+# Podaje informacje o 'sieciowych' danych dotyczączych komputera.
+
+# 32. date
+# wyświetla lub zmienia datę.
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz

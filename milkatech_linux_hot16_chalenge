@@ -1,0 +1,113 @@
+# AUTOR:  Karola
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. ssh nazwa_uzytkownika@adres_ip      
+# łączenie z serwerem
+
+# 2. cd nazwa_katalogu 
+# wejście do katalogu
+
+# 3. cd ..
+# wyjście z katalogu
+
+# 4. mkdir nazwa_katalogu
+# tworzenie katalogu
+
+# 5. rmdir nazwa_katalogu
+# usuwanie katalogu
+
+# 6. pwd
+# sprawdzanie  w jakim katalogu jesteś
+
+# 7. ls nazwa_katalogu
+# pokazuje zawartość katalogu
+
+# 8. rm nazwa_pliku
+# usuwa plik
+
+# 9. cat nazwa_pliku
+# czyta zawartość pliku
+
+# 10. mv stara_nazwa nowa_nazwa
+# zmienia nazwę pliku
+
+# 11. mv nazwa_pliku nazwa_katalogu
+# przenoszenie pliku do katalogu
+
+# 12. lp nazwa_pliku
+# drukowanie pliku
+
+# 13. touch nazwa_pliku
+# tworzenie pustego pliku
+
+# 14. man nazwa_polecenia
+# info o danym poleceniu
+
+# 15. help 
+# wyświetla wszystkie polecenia w Linuxie
+
+# 16. find
+# znajdź
+
+
+
+# HOT 32
+
+# 17. history
+# pokazuje historie komendy
+
+# 18. uname
+# wyświetla informacje o systemie
+
+# 19. id
+# informacja o zalogowanym użytkowniku
+
+# 20. wc
+# zlicza liczbę słów
+
+# 21. dir
+# wyświetla zawartość katalogu
+
+#22. head nazwa_pliku
+# wyświetla 10 pierwszych linii z pliku
+
+# 23. tail nazwa_pliku
+# wyświetla 10 ostatnich linii z pliku
+
+# 24. gpg -c nazwa_pliku
+# szyfrowanie pliku
+
+# 25. nazwa_pliku.gpg
+# deszyfrowanie pliku
+
+# 26. sort
+# sortowanie plików w kolejności alfabetycznej
+
+# 27. diff nazwa_pliku  nazwa_pliku2
+# różnice w zawartości plików
+
+# 28. passwd
+# zmiana hasła
+
+# 29. clear
+# czyści terminal
+
+# 30. mail
+# otwiera plik z pocztą 
+
+# 31. vim
+# podstawowy edytor linux
+
+# 32. exit
+# wyjście z terminala.
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
