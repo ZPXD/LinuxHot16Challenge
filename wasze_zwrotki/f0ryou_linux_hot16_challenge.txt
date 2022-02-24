@@ -1,0 +1,52 @@
+# AUTOR: bpachniewski / f0ryou
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. man KOMENDA
+# niesamowita komenda dla poczatkujacych, po wpisaniu wyświetla dokumentacje o tym dana komenda co robi, jakie parametry moze przyjmowac podana komenda
+
+# 2. sudo KOMENDA
+# przyznaje uprawnienia superusera co umozliwia wykonanie większości operacji; komend
+
+# 3. cd SCIEZKA
+# zmiana katalogu na podany w ścieżce
+
+# 4. ls -la
+# wyświetla pliki i foldery jeden po drugim, pokazując ważne szczegóły jak permissions, oraz nazwe i grupe ownera (przydatne przy błędach "Permission denied" etc.) 
+
+# 5. mkdir NAZWA_KATALOGU
+# tworzy katalog
+
+# 6. rm NAZWA_PLIKU
+# usuń plik; upewnij się że jesteś w odpowiednim folderze
+
+# 7. rmdir NAZWA_KATALOGU
+# usuń katalog (można również za pomocą rm, ale łatwo można narobić sobie problemów, dlatego zalecane)
+
+# 8. touch NAZWA_PLIKU
+# utworzenie nowego pliku(może być pusty, co odróżnia to od nano NAZWA_PLIKU)
+
+# 9. mv NAZWA_DO_ZMIANY SCIEZKA_DOCELOWA
+# przenieś plik lub katalog.
+
+# 10. mv NAZWA_PLIKU NOWA_NAZWA_PLIKU
+#  zmień nazwę pliku
+
+# 11. chown -R USER:USER NAZWA_PLIKU
+# zmienia ownera podanego pliku/folderu(często pomaga przy błędach "Permission denied" etc. przy próbie edycji/wejścia do folderu/pliku)
+
+# 12. chmod 
+# Zmiana uprawnień dostępu do pliku. Ma wiele parametrów.
+
+# 13. pwd
+# print work directory - pokazuje w jakim folderu obecnie sie znajdujesz
+
+# 14. su USER
+# zmienia na uzytkownika; zamiast USER twoja nazwa użytkownika
+
+# 15. find
+# napisana bez żadnych argumentów, pokazuje ścieżkę wszystkich plikow i folderow w obecnym folderze
+
+# 16. wget [option] URL
+# pozwala na pobieranie plików z podanego URL do terminala.
