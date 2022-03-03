@@ -1,0 +1,58 @@
+# AUTOR: Kati1982
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. su -
+# Logujemy się jako administrator (root), wymaga podania hasła
+
+# 2. sudo
+# Umożliwia wykonywanie komendy/polecenia jako administrator (z uprawnieniami root)
+
+# 3. cd
+# Odpowiada za za zmianę katalogu, wpisanie tylko cd powoduje wyjście do katalogu głównego
+
+# 4. cd ..
+# Opuszczamy aktualny katalog, czyli cofamy się do poprzedniego folderu
+
+# 5. cd nazwa_katalogu
+# Przechodzimy do wybranego katalogu, który znajduje się w tym, którym obecnie jesteśmy
+
+# 6. cd /nazwa_katalogu/nazwa_katalogu_2
+# Przechodzimy bezposrednio do wybrangeo katalogu podając całą jego ścieżkę dostępu, czyli miejsce gdzie on się znajduje
+
+# 7. mkdir nazwa_katalogu
+# Tworzymy nowy katalog o nazwie  - nazwa_katalogu, w katalogu, w ktorym obecnie się znajdujemy
+
+# 8. rm -r nazwa_katalogu
+# Usuwamy  katalog o wskazanej nazwie wraz z jego zawartością, w katalogu, w którym obecnie się znajdujemy
+
+# 9. dir 
+# Powoduje wyświetlenie zawartości katalogu w formie listy, w którym aktualnie jesteśmy, nie wyróżniając katalogów
+
+# 10. pwd
+# Wyświetla ściezkę dla katalogu , w którym aktualnie jesteśmy
+
+# 11. touch nazwa_pliku.txt
+# Tworzymy nowy plik w aktualnym katalogu o nazwie np. nazwa_pliku.txt
+
+# 12. nano nazwa_pliku
+# Wyświetlenie zawartości wskazanego pliku do edycji lub utworzenie i edycja nowego pliku o wskazanej nazwie 
+
+# 13. rm nazwa_pliku
+# Usuwanie pliku o wskazanej nazwie z aktualnego folderu
+
+# 14. mv nazwa_pliku nazwa_katalogu / mv nazwa_katalogu nazwa_katalogu_2
+# Przeniesienie pliku lub katalogu z jego zawartością, o wskazanej nazwie, do wybranego katalogu
+
+# 15. cp nazwa_pliku nowa_nazwa_pliku
+# Przeniesienie zawartości jednego pliku do drugiego lub kopiowanie pliku
+
+# 16. ls -la
+# Powoduje wyświetlenie zawartości aktualnego katalogu wraz z ukrytymi plikami i folderami
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
