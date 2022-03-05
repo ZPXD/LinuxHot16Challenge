@@ -1,0 +1,50 @@
+# Autor: eSQL-Ap
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+# Trochę mnie ponisło... xD
+
+to know where you're in, type PWD.
+for directory, type LS, to see.
+and LS -L for all in your shell.
+navigate your tree, simply by CD.
+for a file preview, type LESS and scroll through.
+and for a quickview, try HEAD and TAIL too.
+in need to entwine, use CAT to combine.
+something new to make? use TOUCH to create.
+to edit a file, NANO is alright.
+if no time to type, just try to use PIPE.
+to print something out, ECHO 's at your side.
+for files to get rest, MKDIR 's your best.
+for files to get moved, MV 's a great tool.
+and to duplicate, CP always helps.
+RM anything you no longer need.
+when in lack of power, SUDO grants desire.
+(be mindful of course, it's recursive force).
+use LOCATE or FIND, to get to your files.
+when file is too big, remember to SPLIT.
+to evaluate, EXPR works great. 
+for more calculating, BC is a great thing.
+to count the code's lines, WC is so nice.
+for humans to read, DF -H relieves.
+for unknown command, try -HELP to find out.
+to start getting it, use MAN before it.
+PUSHD and POPD, helps DIRS to store things.
+to download from web, you can WGET.
+and to browse a site, ELINKS is your mate.
+to sneek peek web's code, use CURL, get involved.
+new package to set, use APT-GET.
+to think like a snake, it's time to use MAKE.
+get VIRTUALENV for your python work.
+DISPLAY or CONVERT makes image look great.
+to guess the file's type, use IDENTIFY.
+some things need INSTALL, so new as they are.
+for USERS control, use GROUPS and rejoice.
+to know who has been there, you might like to FINGER.
+to check logged in fast, you might like to LAST.
+USERDEL, USERADD; does not always end bad...
+USERMOD is here too, to keep it real for you. 
+if it gets too classy, try BAT for extasy.
+for work to be flexit, remember to EXIT.
+as for a new drill, you got to use CLEAR.
+for mixed, long commands, when you get too wise:
+; (semicolon), &&(double 'I') - that's how you can simplify.
+End of story. for if again: type HISTORY.

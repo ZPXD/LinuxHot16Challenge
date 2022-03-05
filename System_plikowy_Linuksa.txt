@@ -1,0 +1,35 @@
+Znaczenie kluczowych katalogów zawartych w systemach Linux
+powered by Nachtmahr (Damian)
+
+# Nazwa:
+# Zawartość:
+
+# 1. /
+# Tak zwany root, czyli najwyższy poziom drzewa katalogów.
+
+# 2. /bin
+# Pliki wykonywalne, programy systemowe (np. te realizujące polecenia systemowe używane w terminalu). Mogą to być zarówno programy skompilowane (format binarny), jak i skrypty.
+
+# 3. /boot
+# Zawiera elementy niezbędne do poprawnego uruchomienia systemu (tzw. bootloader i kluczowe programy jądra systemowego, czyli kernela)
+
+# 4. /etc
+# Folder ten zawiera pliki konfiguracyjne
+
+# 5. /home (/~)
+# W tym katalogu tworzone są foldery zawierające dane kont użytkowników
+
+# 6. /var
+# Tutaj programy mogą zapisywać pliki tymczasowe używane podczas swojego działania (także logi, pliki tzw. dzienników, dane serwerów WWW lub serwerów pocztowych).
+
+# 7. /usr
+# Współdzielone pliki wykonywalne, biblioteki, dokumentacja.
+
+# 8. /tmp
+# Foler na mniejsze pliki tymczasowe (mniejsze niż var)
+
+# 9. /sbin
+# Systemowe pliki wykonywalne używane do zarządzania systemem (np. z poziomu użytkownika root). 
+
+#10. /root
+# Katalog domowy użytkownika root.

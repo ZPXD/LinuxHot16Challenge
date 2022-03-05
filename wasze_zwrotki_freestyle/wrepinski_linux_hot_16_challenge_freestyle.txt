@@ -1,0 +1,100 @@
+# Autor: WojRep
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# 1.	grep -R <ciag_znakow> <katalog>			  
+# przeszukanie struktury katalogów i plików w lokalizacji <katalog> pod kątem zawartości w treści szukanego <ciąg_znaków>, dodatkowe opcje "-i" dowolna wielkosc znaków, "-v" odwrócenia wyszkiwania -> "nie zawiera ciągu znaków"
+
+# 2.	mc									                  
+# nakładka CLI w stylu menadzera plików Total Commander
+
+# 3.	su polecenie						              
+# uruchomienie "polecenie" z uprawnieniami root'a
+
+# 4.	su /bin/bash						              
+# uruchomienie powłoki CLI BASH z uprawnieniami root
+
+# 5.	pip3 install <nazwa_modulu>			      
+# instalacja moduły o nazwie <nazwa_modułu> python3
+
+# 6.	ps -aux								                
+# wylistowanie wszystkich uruchomionych (działających) procesów w systemie
+
+# 7.	reboot								                
+# restart systemu operacyjnego Linux
+
+# 8.	wget <lokalizacja_internet>			      
+# pobranie pliku z <lokalizacja_internet> (w formacie URL http:// https:// )
+
+# 9.	history								                
+# pokazanie hostorii wydanych komend w CLI
+
+# 10.	tail -n <x> <nazwa_pliku>				    
+# wyswietlenie <x> ostatnich wierszy z pliku <nazwa_pliku>
+
+# 11.	netstat -anNp						            
+# wyświetlenie programów, które mają otware porty i sockety oraz programów, które własnie się komunikują za pomocą portów
+
+# 12.	komenda | more						          
+# wyswietlenia wyniku działania "komenda" z podzialeĶ na strony
+
+# 13.	top									                
+# Monitor procesow i zasobów systemowych, pokazuje obciezenie procesora, pamieci, przerwań
+
+# 14.	apt install <nazwa_pakietu>			    
+# instalacja pakietu systemowego o nazwie "nazwa_pakietu"
+
+# 15.	mkdir nazwa_katalogu				        
+# Utworzenie nowego katalogu o nazwie <nazwa_katalogu>
+
+# 16.	kill -9 <numer_procesu>				      
+# Zabicie z wymuszeniem procesu w systemie o numerze <numer_procesu>
+
+# 17.	killall -9 <nazwa_procesu>			    
+# Zabicie z wymuszneiem procesów o nazwie <nazwa_procesu>
+
+# 18.	df -h								                
+# Obliczenie zajętości dysków systemowych
+
+# 19.	du -h --max-depth 1 				        
+# Obliczenie zajętości forderów i plików w bierzącym położeniu z sumowanie zajętości do poziomu podfolderów, pominięcie "--max-depth 1" powoduje pokazanie zajętości poszczególnych podfolderów
+
+# 20.	ip a 								                
+# wyświetlenie aktualnie skonfigurowanych adresów IP na interfejsach
+
+# 21.	man <komenda>							          
+# Wyświetlenie podręcznika systemowego z skróconą instrukcją użytkowania priogramu <komenda>
+
+# 22.	date 								                
+# aktualna data i czas w systemie
+
+# 23.	ls -la								              
+# Szczegłowe wylistowanie plików i katalogów w aktualnym folderze
+
+# 24.	cat <nazwa_pliku>						        
+# pokazanie całej zawartości pliki <nazwa_pliku>
+
+# 25.	chmod +x nazwa_pliku				        
+# Nadanie prawa wykonywalności do pliku
+
+# 26.	touch <nazwa_pliku>					        
+# Utworzenie pustego pliku o nazwie <nazwa_pliku>
+
+# 27.	export <ZMIENNA>						        
+# Wyeksportowanie do powłoki zmiennej <ZMIENNA>
+
+# 28.	chown <uzytkownik>:<grupa>	<nazwa_pliku_katalogu>	# zmiana wlasciela/grpy pliku/katalogu na <uzytkownik> i <grupa>, parametr "-R" uruchomienie z zastosowaniem do podkatalogów
+
+# 29.	who									                
+# wyswietla kto jest zalogowany do powloki systemowej
+
+# 30.	tar -cjf nazwa_archiwum.tar.bz2 katalogi	
+# program do pakowania plików i katalogów			
+
+# 31.	vi									                
+# Popularny i zaawansowany edytow plików
+
+# 32.	whoami								              
+# Podaje z jakimi uprawnieniami aktualnie działamy
+
+# 33.	exit 								                
+# Wyjście z aktualnej powłoki systemowej lub środowiska wirtualnego

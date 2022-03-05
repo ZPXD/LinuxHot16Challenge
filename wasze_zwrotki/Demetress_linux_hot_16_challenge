@@ -43,14 +43,14 @@ bardzo fajne, nie trzeba sudo za każdym razem wpisywać, tylko trzeba z tym uwa
 # 13. clear
 # czyści terminal, warto użyć, jak już zrobi się wielki bałagan i nie wiadomo co jest gdzie w terminalu
 
-# 14. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 14. cp <nazwa_pliku> <nazwa_folderu>
+# kopiuje plik do wskazanego folderu
 
-# 15. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 15. mv <nazwa_pliku> <nazwa_folderu>
+# przenosi plik do wskazanego folderu
 
-# 16. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 16. find ./<nazwa_folderu>
+# przeszukuje pliki i foldery, by znaleźć plik spełniający podane warunki
 
 
 

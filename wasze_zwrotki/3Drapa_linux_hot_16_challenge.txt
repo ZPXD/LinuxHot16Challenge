@@ -1,0 +1,110 @@
+# AUTOR: 3drapa
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. man <komenda:man>
+# wyświetla manual dla danej komendy
+
+# 2. <komenda:nano> --help
+# wyświetla krótką pomoc dotyczącą komendy
+
+# 3. sudo <komenda:apt-get>
+# wywołanie komendy z uprawnieniami root'a
+
+# 4. passwd <uzytkownik:Bogdan>
+# zmiana hasła użytkownika (jeżeli bez uzytkownika, to odnosi się do aktualnie zalogowanego)
+
+# 5. apt-get update & apt-get upgrade
+# update i upgrade dla dystrybucji Debian i pochodnych (Ubuntu, Mint, itp.)
+
+# 6. apt-get install <paczka:git>
+# instalacja paczki (programów) na Debianie i pochdnych 
+
+# 7. su <uzytkownik:Bogdan>
+# przełączanie na innego użytkownika
+
+# 8. cd <katalog:/kat/kat/kat>
+# zmiana katalogu ('cd ..' - katalog wyżej, 'cd ~' - katalog główny użytkownika, 'cd /' - katalog główny systemu)
+
+# 9. ls
+# listowanie katalogu ('ls -l' - lista szczegółowa, 'ls -a' - również pliki ukryte)
+
+# 10. less <plik:xd.txt>
+# wyświetlanie zawartości pliku + przewijanie stron (wyjście q)
+
+# 11. touch <plik:xd.txt>
+# tworzy plik
+
+# 12. nano <plik:xd.txt>
+# edytor tekstowy
+
+# 13. mv <plik1:xd.txt> <plik2:xd02.txt>
+# zmiana nazwy pliku
+
+# 14. mv <plik1:xd.txt> <katalog:../katalog/kat/>
+# przeniesie plik1 do katalogu kat
+
+# 15. cp <plik1:xd.txt> <plik2:xd_copy.txt>
+# tworzy kopie plik1 pod nazwą plik2
+
+# 16. cp <plik1:xd.txt> <katalog:../katalog/kat/>
+# kopiuje plik1 do katalogu kat (jeżeli pliku nie ma to go tworzy)
+
+
+
+# HOT 32
+
+# 17. rm <plik:xd.txt>
+# kasuje plik
+
+# 18. rm -r <katalog:kat>
+# kasuje katalog + podkatalogi (z opcją -f nie zapyta czy kasować)
+
+# 19. rmdir <katalog:kat>
+# kasuje pusty katalog
+
+# 20. mkdir <katalog:kat>
+# tworzy katalog
+
+# 21. chmod 777 <plik:xd.txt>
+# zmiania prawa dostępu do pliku na rwx dla właściciela, grupy i innych (Tutaj ściąga -> http://www.chmod.pl/)
+
+# 22. ssh <uzytkownik:janek>@<adres:1.1.1.1>
+# logowanie ssh (logowanie z kluczem ssh -i <klucz:"mykey.pem"> <uzytkownik:janek>@<adres:1.1.1.1>)
+
+# 23. uname -a
+# informacje o systemie
+
+# 24. sudo reboot
+# restart systemu
+
+# 25. adduser <uzytkownik:bogdan>
+# zakładanie (dodawanie) uzytkownika
+
+# 26. userdel <uzytkownik:bogdan>
+# usuwanie uzytkownika
+
+# 27. pwd
+# wyświetla ścieżkę do aktualnego katalogu
+
+# 28. whoami
+# wyświetla nazwę użytkownika
+
+# 29. ps
+# wyświetla uruchomione procesy
+
+# 30. kill <PID:862>
+# przerywa proces o podanym PID - ID procesu (dodana opcja -KILL robi to bez pytania)
+
+# 31. ping <adres:1.1.1.1>
+# sprawdza połączenie z danym adresem
+
+# 32. df
+# df – wypisuje rozmiary i ilość dostępnego miejsca na zamontowanych dyskach w kilobajtach i w procentach ('df -h' - w GB, 'df -m' - w MB)
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# https://zajecia-programowania-xd.pl/szturm_na_aws
+# https://www.facebook.com/Szturm-na-AWS-109216351659123
+# https://discord.gg/46JVvHgzqz

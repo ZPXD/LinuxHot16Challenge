@@ -1,4 +1,4 @@
-# AUTOR: krzysztof_domanski
+# AUTOR: Krzysiek_D#7180
 # Zasady: https://github.com/ZPXD/LinuxHot16Challenge
 
 # HOT 16
