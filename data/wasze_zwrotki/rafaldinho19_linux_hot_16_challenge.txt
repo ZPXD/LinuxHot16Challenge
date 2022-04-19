@@ -1,0 +1,109 @@
+# AUTOR: rafaldinho19
+
+# HOT 16
+
+# 1. ls
+# Pokazuje nam zawartość katalogu
+
+# 2. touch
+# Tworzenie pliku np. 'touch new_file.txt'
+
+# 3. pwd
+# Wyświetlenie ścieżki, w której sie znajdujemy
+
+# 4. cd
+# Zmiana katalogu bieżącego, np. cd /home/user/Muzyka
+
+# 5. mkdir
+# Tworzenie katalogu, np.'mkdir new_folder'
+
+# 6. rmdir
+# Usunięcie katalogu, np 'rmdir new_folder'
+
+# 7. man
+# Wyświetlenie pomocy dla danej komendy np. 'man cd' pokaże opis komendy oraz sposób użycia
+
+# 8. cat
+# Łączenie plików, np. 'cat plik1.txt plik2.txt' lub 'cat plik1.txt plik2.txt > plik3.txt' z zapisem do nowego pliku
+
+# 9. cp
+# Kopiowanie pliku, np. cp sample.txt new_sample.txt
+
+# 10. mv
+# Przeniesienie pliku do innego katalogu np. 'mv sample.txt Documents', można zmienić tez nazwę pliku, np. 'mv sample.txt new_file.txt'
+
+# 11. rm
+# Usunięcie pliku np. 'rm sample.txt'
+
+# 12. exit
+# Zamykanie terminala
+
+# 13. nano
+# Niewielki terminalowy edytor tekstu
+
+# 14. sudo 
+# służy do uruchomienia aplikacji jako inny użytkownik (administrator)
+
+# 15. find
+# Wyszukiwania plików i folderów
+
+# 16. clear
+# Wyczyszczenie terminala
+
+
+
+# HOT 32
+
+# 17. ps
+# Wyświetla listę podstawowych procesów dla aktualnej powłoki (wiersza poleceń)
+
+# 18. kill
+# Zakończenie procesu podając jako argument numer PID procesu, np. kill 202
+
+# 19. passwd
+# Zmiana hasła
+
+# 20. help
+# Wyświetla wszystkie polecenia w Linuxie
+
+# 21. history
+# Historia komend
+
+# 22. chmod
+# Zmienia prawa dostępu do pliku
+
+# 23. locate
+# Znalezienie lokalizacji pliku lub folderu, np. locate Downloads
+
+# 24. useradd
+# Tworzenie nowych użytkowników
+
+# 25. userdel
+# Usunięcie uzytkownika
+
+# 26. groupadd
+# Utworzenie nowej grupy
+
+# 27. groupdel
+# Usunięcie grupy
+
+# 28. usermod
+# Dodawanie użytkowników do grup
+
+# 29. sort
+# Sortowanie plików w kolejności alfabetycznej
+
+# 30. ssh login@ip
+# Połączenie w oparciu o protokół SSH na użytkownika (login) do serwera (ip)
+
+# 31. grep
+# Wyszukiwania plików i wzorców, np. grep moj_wzorzec plik1
+
+# 32. vi/vim
+# Wbudowany edytor tekstu
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# https://zajecia-programowania-xd.pl/szturm_na_aws
+# https://www.facebook.com/Szturm-na-AWS-109216351659123
+# https://discord.gg/46JVvHgzqz

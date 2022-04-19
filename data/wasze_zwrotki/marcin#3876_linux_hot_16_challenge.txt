@@ -1,0 +1,53 @@
+# AUTOR: marcin#3876
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. man
+# Podaje dość szczegółowy opis wybranej komendy systemu. Ex: "man sudo"
+
+# 2. apt
+# Narzędzie do zarządzania i instalowania oprogramowania w systemie. Ex: "sudo apt update"
+
+# 3. top
+# Pokazuje ciągle aktualizowaną listę procesów systemu linux
+
+# 4. pwd
+# Pokazuje aktualny katalog, w którym jesteśmy
+
+# 5. ls
+# Pokazuje zawartość katalogu
+
+# 6. which
+# Pokazuje pełną ścieżkę do pliku
+
+# 7. neofetch
+# Prezentuje podstawowe informacje o komputerze, sprzęcie itp. itd.
+
+# 8. cd
+# Służy do zmian katalogu
+
+# 9. cp
+# Służy do kopiowania plików i katalogów
+
+# 10. mv
+# Służy do przenoszenia plików i katalogów
+
+# 11. mkdir
+# Służy do tworzenia nowych katalogów
+
+# 12. rm
+# Służy do usuwania plików i katalogów
+
+# 13. find
+# Szuka pliku w danym katalogu
+
+# 14. grep
+# Umożliwia przeszukanie pliku tekstowego za pomocą wyrażeń regularnych
+
+# 15. clear
+# Czyści okno konsoli
+
+# 16. sudo
+# Służy do uruchomiania aplikacji jako administrator
+

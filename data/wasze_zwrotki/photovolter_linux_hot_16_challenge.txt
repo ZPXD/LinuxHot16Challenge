@@ -1,0 +1,109 @@
+# AUTOR: Photo Volter
+
+# HOT 16
+
+# 1. whoami
+# Odpowiada na pytanie "Who am I? / Kim jestem?" - wypisuje nazwę użytkownika. Niestety nie wypisze dokąd użytkownik zmierza ;)
+
+# 2. cp -ui <plik:plik_oryginalny.txt> <plik:kopia_pliku.txt>
+# Kopiuje plik. Opcja '-u' kopiuje plik oryginalny tylko wtedy, gdy jest nowszy niż docelowy plik, opcja '-i' zapyta cię, czy nadpisać plik docelowy, gdy plik o takiej nazwie już istnieje.
+
+# 3. ls -A
+# Wypisuje listę wszystkich plików z bieżącego katalogu; również tych, które próbują się ukryć przed zwykłym `ls`.
+
+# 4. cd
+# '(c)hcę (d)o' Przenosi do katalogu domowego; nawet wtedy, gdy nie pamiętasz jego nazwy. Gdy pamiętasz nazwę ("ścieżkę dostępu"), to przenosi cię do katalogu o tej nazwie.
+
+# 5. cd ..
+# Zmienia bieżący podkatalog na katalog wyżej czyli przenosi do katalogu zawierającego bieżący podkatalog.
+
+# 6. mc 
+# Potężne narzędzie, które skromnie przedstawia się jako menedżer plików, ale z plikami potrafi zrobić o wiele więcej, niż sobie wyobrażasz. Jak gejsza z wachlarzem. Wypróbuj `mcedit`.
+
+# 7. vim (i jego tutorial: vimtutor)
+# Potężny edytor plików. Gdy go nie znasz, jest jak labirynt: 'vim jak wejść, ale nie vim jak z niego wyjść - mam :wq xD'. Gdy go poznasz, będziesz używał tak często, jak klucz 'szklana pięćdziesiątka' w warsztacie.
+
+# 8. pwd
+# '(p)okaż (w)ujkowi (d)rogę' - wypisuje ścieżkę dostępu do bieżącego katalogu.
+
+# 9. head <nazwa_pliku:tldr-wazny_poczatek.txt>
+# Wypisuje zawartość początkowych linii pliku. 
+
+# 10. df -h
+# Wypisuje ilość wolnego miejsca na dysku w jednostkach czytelnych dla człowieka. 
+
+# 11. mv <nazwa pliku lub katalogu:/home/ubuntu/flaga/czytaj.to> <nowa nazwa pliku lub katalogu:/home/ubuntu/teraz_czytaj.to> 
+# Przenosi plik lub katalog do nowej lokalizacji. W formie skróconej bez podawania ścieżki dostępu zmienia nazwę pliku/katalogu w katalogu roboczym.
+
+# 12. rm -rf <nazwa_katalogu:./*>
+# UWAGA! Niebezpieczeństwo! Usuwa pliki i katalogi rekurencyjnie i bez zadawania pytań. Opcje '-rf' oznaczają 'Ryzyko Fakapu/Rozległe Fiasko' ;)
+
+# 13. touch <plik:aktualizowany_lub_nieistniejacy_plik.txt> <plik:mozna_podac_wiecej_niz_jeden_plik.txt>
+# Ustawia czas modyfikacji i dostępu do pliku na bieżący czas. Gdy plik nie istnieje - tworzy go.
+
+# 14. mkdir -p <katalog:./nazwa_katalogu>
+# Tworzy katalog 'nazwa_katalogu' w bieżącym katalogu lub w podanej ścieżce dostępu. Przełącznik '-p' tworzy brakujące katalogi nadrzędne, jeżeli wcześniej nie istniały. 
+
+# 15. ssh -i <klucz:sciezka_dostepu/nazwa_klucza.pem> <login:ubuntu>@<nazwa_serwera_strony:mojastrona.pl>
+# Umożliwia zalogowanie do powłoki komend na serwerze przy użyciu pliku klucza i nazwy użytkownika 'ubuntu' na serwerze 'mojastrona.pl'.
+
+# 16. file <plik:nazwa_pliku.cos>
+# Wypisuje typ pliku na podstawie jego 'liczby magicznej' oraz jego zawartości.
+
+
+
+# HOT 32
+
+# 17. tail <nazwa_pliku:tldr_najwazniejsze_jest_na_koncu.txt>
+# Wypisuje końcowe linie pliku.
+
+# 18. sort <nazwa_pliku:lista_zakupów.txt>
+# Wypisuje i jednocześnie sortuje linie pliku tekstowego.
+
+# 19. python3 <nazwa_pliku:moj_program.py>
+# Uruchamia w Pythonie program z pliku 'program.py'. 
+
+# 20. grep -i zup <nazwa_pliku:ząb_zupa_zębowa_dąb_doopa_dębowa.txt>
+# Wypisuje wszystkie linie z podanego pliku, które zawierają podany ciąg niezależnie od wielkości użytych liter (tutaj: wypisane zostaną wszystkie linie zawierające ciągi 'zup', 'ZUP', 'Zup', itp.) 
+
+# 21. htop
+# Pokazuje obciążenie i procesy wykonywane przez system i umożliwia zarządzanie nimi.
+
+# 22. vdir
+# Zawartość katalogu wypisuje w długim formacie.
+
+# 23. uniq -D -i <nazwa_pliku:lista_domen.txt>
+# Wywołany bez argumentów wypisuje wszystkie niepowtarzalne linie w pliku. Opcja '-D' odwraca zachowanie domyślne i wypisuje wielokrotnie wszystkie powtarzające się linie pliku. Opcja '-i' ignoruje wielkość liter.
+
+# 24. groups <użytkownik:ubuntu>
+# Wypisuje grupy, do których należy użytkownik 'ubuntu'. Bez dodatkowych argumentów wypisuje grupy, do których należy bieżący użytkownik.
+
+# 25. sleep 77s; echo "Pobudka!"
+# Pauzuje przez podany czas, po którego upływie wykonuje następne polecenie (tutaj: wypisuje string 'Pobudka!').
+
+# 26. env
+# Wypisuje i/lub zmienia zmienne środowiska.
+
+# 27. uname -a
+# Wypisuje informacje o systemie i jego jądrze: nazwę jądra, nazwę sieciową systemu, numer wydania jądra, wersję jądra, architekturę komputera, typ procesora, platformę sprzętową i system operacyjny komputera.
+
+# 28. sed -e's/dup/zup/g' <nazwa_pliku:ząb_zupa_zębowa_dąb_doopa_dębowa.txt>
+# Wypisuje na standardowe wyjście zawartość pliku jednocześnie zmieniając wszystkie ciągi 'dup' na ciągi 'zup'.
+
+# 29. who lub pinky (lepsze)
+# Odpowiada na pytanie, kto jest zalogowany na serwerze - podaje loginy zalogowanych użytkowników.
+
+# 30 echo <string:"jakiś tekst lub wartość">
+# Odpowiednik Python'owego 'print()' - wypisuje na wyjście jakiś tekst lub wartość zmiennej.
+
+# 31. nl <nazwa_pliku:flaga.txt>
+# Wypisuje na standardowe wyjście zawartość pliku 'flaga.txt' dodając na początku każdej linii jej numer.
+
+# 32. wc <nazwa_pliku:flaga.txt>
+# Wypisuje liczbę linii, słów i znaków w pliku 'flaga.txt'.
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# https://zajecia-programowania-xd.pl/szturm_na_aws
+# https://www.facebook.com/Szturm-na-AWS-109216351659123
+# https://discord.gg/46JVvHgzqz

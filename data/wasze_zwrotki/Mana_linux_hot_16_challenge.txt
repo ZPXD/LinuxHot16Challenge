@@ -1,0 +1,62 @@
+# AUTOR: Mana
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. pwd
+# Zwraca informację o aktualnej ścieżce 
+
+# 2. cd <path>
+# Przenosi do wybranego miejsca np. cd /var
+
+# 3. ls
+# Wypisuje zawartość folderu
+
+# 4. cat
+# Zwraca zawartość pliku w terminalu
+
+# 5. clear
+# Czyści okno terminalu
+
+# 6. date
+# Wyświetla aktualną datę
+
+# 7. cp [source][destination] 
+# Kopiuje zawartość pliku, folder do nowego miejsca, pozwala tez tworzyc pliki
+
+# 8. mv
+# Pozwala przeniesc zawartość pliku do innego miejsca, również do zmiany nazwy pliku
+
+# 9. mkdir
+# Tworzenie nowego folderu
+
+# 10. rmdir
+# Usunięcie folderu
+
+# 11. find
+# Wyszukiwarka w konkretnym miejscu, locate szuka wszędzie
+
+# 12. grep
+# Wyszukiwanie konkretnego słowa w tekście
+
+# 13. tar
+# Do pakowania plików, podobne do .zip 
+
+# 14. chmod
+# Przyznawanie uprawnień, 3 typy uprawnień: Read, Write, eXecute
+
+# 15. man <command>
+# od Manual, zwraca info co dana komenda robi np. man grep
+
+# 16. cmatrix
+# Sprawdź 4fun :D, 
+
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz

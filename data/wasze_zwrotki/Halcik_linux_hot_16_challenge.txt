@@ -1,0 +1,113 @@
+# AUTOR: Halcik
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. pwd
+# Pokazuje, gdzie jestem.
+
+# 2. whoami
+# Wyświetla nazwę użytkownika, którym jesteśmy.
+
+# 3. cd [ścieżka]
+# Służy do przemieszczania się po systemie. Wpisując dalej ścieżkę, przemieszczamy się w to miejsce.
+
+# 4. ls
+# listuje katalog, czyli wyświetla to, co się w nim znajduje.
+
+# 5. sudo
+# Daje nam uprawnienia roota, można wtedy coś, np. zainstalować.
+
+# 6. sudo su
+# Loguje nas na konto roota, czyli takiego, który ma najwyższe uprawnienia. Używając po sudo innej nazwy, można zalogować się też na innego użytkownika.
+
+# 7. mkdir [nazwa_katalogu] 
+# Pozwala nam na tworzenie katalogu.
+
+# 8. touch [nazwa_pliku] 
+# Tworzenie pliku z odpowiednim rozszerzeniem. 
+
+# 9. cat [nazwa_pliku]
+# Wypisuje zawartość pliku.
+
+# 10. rm [nazwa_pliku/katalogu] 
+# Usuwanie niechcianych już plików i/lub katalogów. 
+
+# 11. nano [nazwa_pliku]
+# Otworzenie pliku w edytorze tekstowym.
+
+# 12. man [program]
+# Wyświetla stronę manuala dla polecenia, np. nano. Jest to pomoc, gdzie zobaczymy składnię i zastosowanie. 
+
+# 13. cp [nazwa_pliku]
+# Kopiuje plik
+
+# 14. mv [sciezka_do_pliku] [nowa_sciezka_do_pliku]
+# Zmienia lokalizację liku. Można też go użyć do zmiany nazwy
+
+# 15. chmod [prawa] [nazwa_pliku]
+# Pozwala na zmianę praw do pliku, umożliwiając lub zabraniając na jego czytanie, edycję i prawo do wykonywania.
+
+# 16. vim [nazwa_pliku]
+# Otworzenie pliku w edytorze tekstowym. Jest trochę bardziej zaawansowany od nano, ale jak się ogarnie skróty, to bardzo przyjemny.
+
+
+
+# HOT 32
+
+# 17. ifconfig
+# Wyświetla informacje o ip.
+
+# 18. ping [ip]
+# Pozwala na sprawdzenie, czy istnieje połączenie z innym komputerem.
+
+# 19. exit
+# Umożliwia wyjście z terminala.
+
+# 20. logout
+# Wylogowuje z terminala
+
+# 21. passwd [ewentualne_opcje] [nazwa_użytkownika]
+# Pozwala na zarządzanie i zmianę hasła.
+
+# 22. clear
+# Czyści ekran terminala.
+
+# 23. chown [nazwa_użytkownika] [nazwa_pliku]
+# Pozwala na zmianę właściciela pliku lub katalegu.
+
+# 24. ssh [nazwa_uzytkownika@host]
+# Zdalne łączenie się z innym komputerem
+
+# 25. ftp [opcje] [host]
+# Pozwala na łączenie się z ftp (jest to usługa, która pozwala na przenoszenie plików), wychodzimy z niego, wpisując bye.
+
+# 26. ps
+# Wyświetla listę procesów.
+
+# 27. kill [numer_procesu]
+# Pozwala na zabicie danego procesu.
+
+# 28. date
+# Wyświetla datę.
+
+# 29. history [opcjonalnie_liczba]
+# Wyświetla historię ostatnio wpisanych komend. Można dopisać liczbę, by nie wywaliło ich na cały ekran, jeśli tylu nie potrzebujemy.
+
+# 30. find
+# Wyszukuje pliki/katalogi
+
+# 31. finger
+# Pokazuje zalogowanych użytkowników.
+
+# 32. mc
+# Midnight Commander - program do zarządzania plikami i katalogami.
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
