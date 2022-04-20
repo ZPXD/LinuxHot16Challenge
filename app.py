@@ -39,9 +39,9 @@ def sort_by_rank(commands_list):
 
 def get_file_data_lines(fn):
 	file_path = os.path.join(classic_data_folder, fn)
-	with open(file_path, 'r') as f:
+	with open(file_path, 'r', encoding="utf-8" as f:
 		text_lines = f.readlines()
-	text_lines = [l.strip() for l in text_lines if '#' in l]
+	text_lines = [l.encode('utf-8').decode().strip() for l in text_lines if '#' in l]
 	return text_lines
 
 
