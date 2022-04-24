@@ -5,9 +5,6 @@ import requests
 
 
 app = Flask(__name__)
-
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////tmp/xd.db'
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
 app.secret_key = ':)'
 
 
