@@ -1,17 +1,17 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, redirect, url_for
+
 import os
 import requests
 
 
-here = os.getcwd()
-classic_data_folder = os.path.join(here, 'data', 'wasze_zwrotki')
-
-app=Flask(__name__)
+app = Flask(__name__)
+app.secret_key = ':)'
 
 
 here = os.getcwd()
 classic_data_folder = os.path.join(here, 'data', 'wasze_zwrotki')
 freestyle_data_folder = os.path.join(here, 'data', 'wasze_zwrotki_freestyle')
+
 
 def check_file_ANTI_MALWARE():
 	pass
@@ -134,5 +134,17 @@ def hot_16_challenge_freestyle():
 def hot_16_add_yours():
 	return render_template("freestyle.html")
 
+
+# Errors
+
+@app.errorhandler(404)
+def handle_404(e):
+    return render_template('404.html'), 404
+
+@app.errorhandler(500)
+def handle_500(e):
+    return render_template('500.html'), 500
+
+
 if __name__=="__main__":
-	app.run()
+	app.run(debug=True)
