@@ -1,17 +1,20 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, redirect, url_for
+
 import os
 import requests
 
 
-here = os.getcwd()
-classic_data_folder = os.path.join(here, 'data', 'wasze_zwrotki')
+app = Flask(__name__)
 
-app=Flask(__name__)
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////tmp/xd.db'
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
+app.secret_key = ':)'
 
 
 here = os.getcwd()
 classic_data_folder = os.path.join(here, 'data', 'wasze_zwrotki')
 freestyle_data_folder = os.path.join(here, 'data', 'wasze_zwrotki_freestyle')
+
 
 def check_file_ANTI_MALWARE():
 	pass
@@ -39,7 +42,7 @@ def sort_by_rank(commands_list):
 
 def get_file_data_lines(fn):
 	file_path = os.path.join(classic_data_folder, fn)
-	with open(file_path, 'r', encoding="utf-8" as f:
+	with open(file_path, 'r', encoding="utf-8") as f:
 		text_lines = f.readlines()
 	text_lines = [l.encode('utf-8').decode().strip() for l in text_lines if '#' in l]
 	return text_lines
@@ -132,5 +135,17 @@ def hot_16_challenge_freestyle():
 def hot_16_add_yours():
 	return render_template("freestyle.html")
 
+
+# Errors
+
+@app.errorhandler(404)
+def handle_404(e):
+    return render_template('404.html'), 404
+
+@app.errorhandler(500)
+def handle_500(e):
+    return render_template('500.html'), 500
+
+
 if __name__=="__main__":
-	app.run()
+	app.run(debug=True)
