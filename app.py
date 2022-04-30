@@ -77,6 +77,7 @@ def load_classic_data():
 						command = {}
 						command['name'] = None
 						command['rank'] = None
+						command['rank_number'] = None
 						command['rank_list'] = []
 						command['description'] = []
 
@@ -105,6 +106,7 @@ def load_classic_data():
 						rank = 33 - rank
 						command['rank_list'].append(rank)
 						command['rank'] = sum(command['rank_list'])
+						command['rank_number'] = len(command['rank_list'])
 
 						# Description:
 						description = text_lines[idx+1]
