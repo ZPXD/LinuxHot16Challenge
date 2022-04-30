@@ -1,9 +1,15 @@
-# #LinuxHot16Challenge
+## #LinuxHot16Challenge
+
+Ranking tych komend linuxowych ktore sa najfajniejsze dla poczatkujacych - kazdy moze podrzucic propozycje 16 czy 32 swoich ulubionych ktore chcial przez znac jak trafl najpierw.
+
+- discord: https://discord.gg/bbtTNKqPkD
+- www: http://linuxhot16challenge.info/
 
 
+#### Jak pobrać, uruchomić i uczyć się lub dołaczyć do kontrybucji?
 
-#### Link do strony www (Tu będą aktualne wyniki):
-[tu będzie link do www]
+[Instrukcja](https://github.com/ZPXD/zajecia_programowania_xd/blob/main/przydatne/projekty.md)
+
 
 
 #### O co chodzi?
