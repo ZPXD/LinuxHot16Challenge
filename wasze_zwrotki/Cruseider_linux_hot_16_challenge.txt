@@ -1,0 +1,32 @@
+# sudo (z apt-get) pozwala na odpalanie programów jako inny user(root)
+
+# ls (-a / -la) pomaga Ci się zorientować co znajduje się w katalogu w którym jesteś
+
+# pwd od tego trzeba zacząć - że powie Ci gdzie jesteś
+
+# cd - nie szukaj tutaj rymu tylko przeskocz do innego folderu
+
+# mkdir - stworzy dla Ciebie folder
+
+# rm - pozwoli usunąć pliki lub foldery
+
+# cp - pozwala robić kopie plików / folderów
+
+# man - jeśli trafisz na ciekawą komendę i nie wiesz co znaczy man Ci to wytłumaczy
+
+# less - pozwoli na wyświetlenie zawartości pliku
+
+# wc - od wordcount liczy słowa, wiersze w pliku lub wyrażeniach
+
+# diff - pokaże Ci różnice między dwoma plikami - porównuje
+
+# df - pokaże Ci wykorzystanie dysku 
+
+# history - jeśli zapomnisz ostatnich komend jakie używałeś możesz użyć tego polecenia żeby je przywołac
+
+# ps - daje znać na temat uruchomionych procesów na naszym sprzęcie
+
+# top - dzięki temu procesy, które są uruchomione wyświetlą się w przejrzystej tabeli z informacją które z nich zużywają najwięcej pamięci
+
+# nano - user friendly edytor :) 
+
